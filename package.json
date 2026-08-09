@@ -1,0 +1,25 @@
+{
+  "name": "m365-radar",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "MCP server and daily open dataset for the Microsoft 365 roadmap and Azure service status",
+  "license": "MIT",
+  "author": "Dima Vasilenko",
+  "bin": { "m365-radar": "dist/server.js" },
+  "files": ["dist", "data"],
+  "scripts": {
+    "build": "tsc",
+    "harvest": "tsx src/harvest.ts",
+    "dev": "tsx src/server.ts",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

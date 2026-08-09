@@ -1,0 +1,43 @@
+name: Harvest roadmap
+
+on:
+  schedule:
+    # 05:17 UTC daily — off the hour so we are not competing with every other cron.
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - run: npm ci
+
+      - name: Harvest roadmap snapshot
+        run: npm run harvest
+
+      - name: Commit snapshot if it changed
+        run: |
+          if git diff --quiet -- data; then
+            echo "No roadmap changes today."
+            exit 0
+          fi
+          count=$(node -p "require('./data/meta.json').featureCount")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "data: roadmap snapshot $(date -u +%Y-%m-%d) (${count} features)"
+          git push
