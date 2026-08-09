@@ -29,15 +29,28 @@ jobs:
       - name: Harvest roadmap snapshot
         run: npm run harvest
 
-      - name: Commit snapshot if it changed
+      - name: Commit snapshot
         run: |
+          # meta.json carries a fresh harvestedAt on every run, so it always differs.
+          # Only roadmap.json tells us whether Microsoft actually changed anything —
+          # that keeps `git log -p -- data/roadmap.json` a clean roadmap changelog.
+          today=$(date -u +%Y-%m-%d)
+          count=$(node -p "require('./data/meta.json').featureCount")
+
+          if git diff --quiet -- data/roadmap.json; then
+            message="chore: roadmap unchanged ${today}"
+          else
+            message="data: roadmap changed ${today} (${count} features)"
+          fi
+
           if git diff --quiet -- data; then
-            echo "No roadmap changes today."
+            echo "Nothing to commit."
             exit 0
           fi
-          count=$(node -p "require('./data/meta.json').featureCount")
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          git commit -m "data: roadmap snapshot $(date -u +%Y-%m-%d) (${count} features)"
+          git commit -m "$message"
           git push
+          echo "$message"

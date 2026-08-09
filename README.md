@@ -12,7 +12,9 @@ The roadmap API is undocumented, bot-protected and about 2 MB per request. Query
 2. The MCP server answers queries from that snapshot — fast, offline-capable, and unaffected if the upstream endpoint has a bad day.
 3. The **git history becomes the changelog**. The diff between two daily commits is exactly what Microsoft changed on the roadmap, with nothing else in it.
 
-That last point is the radar. `git log -p data/roadmap.json` is a complete, auditable record of roadmap movement over time.
+That last point is the radar. `git log -p -- data/roadmap.json` is a complete, auditable record of roadmap movement over time.
+
+The harvest commits every day so you can see it ran, but the commit message says which kind of day it was: `data: roadmap changed …` when Microsoft moved something, `chore: roadmap unchanged …` when they did not.
 
 ## Tools
 
