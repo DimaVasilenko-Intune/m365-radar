@@ -4,7 +4,7 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { z } from "zod";
 import { fetchAzureStatus } from "./azure-status.js";
-import { changedSince, load, search } from "./data.js";
+import { changedSince, freshness, load, search } from "./data.js";
 import type { RoadmapFeature } from "./types.js";
 
 const server = new McpServer({ name: "m365-radar", version: "0.1.0" });
@@ -60,7 +60,7 @@ server.registerTool(
       const { features, meta } = await load();
       const results = search(features, args);
       return text({
-        snapshotDate: meta.harvestedAt,
+        ...freshness(meta),
         matched: results.length,
         features: results.map(summarise),
       });
@@ -79,10 +79,10 @@ server.registerTool(
   },
   async ({ id }) => {
     try {
-      const { features } = await load();
+      const { features, meta } = await load();
       const feature = features.find((candidate) => candidate.id === id);
       if (!feature) return failure(new Error(`No roadmap feature with id ${id}`));
-      return text(feature);
+      return text({ ...freshness(meta), feature });
     } catch (error) {
       return failure(error);
     }
@@ -109,7 +109,7 @@ server.registerTool(
       const scoped = product ? search(features, { product, limit: features.length }) : features;
       const changed = changedSince(scoped, since, limit);
       return text({
-        snapshotDate: meta.harvestedAt,
+        ...freshness(meta),
         since: since.toISOString(),
         matched: changed.length,
         features: changed.map(summarise),

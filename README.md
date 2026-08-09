@@ -57,6 +57,8 @@ Each feature carries `id`, `title`, `description`, `status`, `products`, `cloudI
 
 The data is Microsoft's; this repo only reshapes it. Use it for whatever you like.
 
+**Your clone does not refresh itself.** This repository is updated daily, but a checkout on your machine stays at whatever commit you pulled. Every tool response reports `snapshotAgeDays`, and once your copy is three days old it also returns a `warning` telling you to `git pull` or run `npm run harvest`. Keeping it current is a pull, or a `git pull` on a schedule if you would rather not think about it.
+
 ## Data sources
 
 | Source | Endpoint |

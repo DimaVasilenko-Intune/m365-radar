@@ -27,6 +27,34 @@ export async function load(): Promise<{ features: RoadmapFeature[]; meta: Harves
   }
 }
 
+/**
+ * The upstream repository refreshes daily, but a clone does not refresh itself.
+ * Past this many days we tell the caller their copy has drifted.
+ */
+const STALE_AFTER_DAYS = 3;
+
+export interface Freshness {
+  snapshotDate: string;
+  snapshotAgeDays: number;
+  warning?: string;
+}
+
+export function freshness(meta: HarvestMeta): Freshness {
+  const ageMs = Date.now() - new Date(meta.harvestedAt).getTime();
+  const snapshotAgeDays = Math.max(0, Math.floor(ageMs / 86_400_000));
+  const base: Freshness = { snapshotDate: meta.harvestedAt, snapshotAgeDays };
+
+  if (snapshotAgeDays < STALE_AFTER_DAYS) return base;
+
+  return {
+    ...base,
+    warning:
+      `This snapshot is ${snapshotAgeDays} days old, so the roadmap may have moved since. ` +
+      `The published repository refreshes daily — run "git pull" in your m365-radar checkout, ` +
+      `or "npm run harvest" to fetch the current roadmap yourself.`,
+  };
+}
+
 function matchesAny(values: string[], filter: string | undefined): boolean {
   if (!filter) return true;
   const needle = filter.toLowerCase();
