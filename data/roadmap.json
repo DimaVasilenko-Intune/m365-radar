@@ -5362,30 +5362,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=475059"
   },
   {
-    "id": 475248,
-    "title": "SharePoint: Syntex Optical Character Recognition (OCR) extends support for Microsoft Office files",
-    "description": "SharePoint OCR feature now extends support to Microsoft Office files. Previously, OCR was limited to PDFs and images but with this update, you can seamlessly extract and utilize text from any embedded images within any Microsoft Office files like Word, PowerPoint, and Excel.",
-    "status": "Launched",
-    "products": [
-      "SharePoint"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "January CY2025",
-    "created": "2025-01-17T00:00:53",
-    "modified": "2025-10-10T22:15:35",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=475248"
-  },
-  {
     "id": 475249,
     "title": "Outlook: Summarize email attachments with Copilot",
     "description": "You will now be able to summarize PDF, Word, and PowerPoint email attachments with Copilot in Outlook. The new feature will be available for Outlook Web, the new Outlook for Windows, Outlook Mobile, and the new Outlook for Mac. #newoutlookforwindows",
@@ -7019,34 +6995,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=482747"
   },
   {
-    "id": 483007,
-    "title": "Outlook: Schedule from email with Copilot",
-    "description": "Often you may want to transition a conversation from an email thread to a meeting. Copilot helps you do this by being able to start scheduling right from the email conversation. It saves you time and effort by generating a meeting invite that's ready for you to review and send. When you click on \"Schedule with Copilot\" a meeting form will appear with a Copilot generated meeting title, agenda, and conversation summary as well as a pre-filled attendee list from the email thread and an attachment of the original email thread. This feature will be available in the new Outlook for Windows, web, Mac, and mobile. #newoutlookforwindows",
-    "status": "Launched",
-    "products": [
-      "Microsoft 365"
-    ],
-    "cloudInstances": [
-      "GCC"
-    ],
-    "platforms": [
-      "Android",
-      "Desktop",
-      "Mac",
-      "Web",
-      "iOS"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "March CY2025",
-    "created": "2025-02-26T01:45:29",
-    "modified": "2025-10-10T22:15:35",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=483007"
-  },
-  {
     "id": 483254,
     "title": "Microsoft Teams: App ratings will be available in the unfurled links",
     "description": "App ratings will appear on the unfurled links for shared apps and agents to allow users who rely on ratings to evaluate apps prior to installing.",
@@ -8476,31 +8424,6 @@
     "modified": "2025-11-06T00:00:20",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485769"
-  },
-  {
-    "id": 485770,
-    "title": "PowerPoint: Refreshed Placeholders in PowerPoint on Desktop",
-    "description": "Placeholders in PowerPoint are getting refreshed to look more modern and provide clear guidance on the object that can be inserted. Image placeholders now allow you to pick from a variety of sources to insert an image. We apologize for the inconvenience, but we are rolling this out early to resolve an issue that some customers were experiencing",
-    "status": "Launched",
-    "products": [
-      "PowerPoint"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop",
-      "Mac"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "April CY2025",
-    "created": "2025-03-26T00:00:04",
-    "modified": "2025-10-09T23:15:42",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485770"
   },
   {
     "id": 485780,
@@ -10054,32 +9977,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=489454"
   },
   {
-    "id": 489492,
-    "title": "Microsoft Purview compliance portal: Microsoft Purview Data Security Posture Management for AI Apps and agents",
-    "description": "Apps and agents in Microsoft Purview Data Security Posture Management for AI apps enables administrators to view a dashboard of agents used across the organization and identify and manage any potential data security risks. Administrators can access detailed insights into sensitive data that specific agents have accessed and see how these agents are protected by Purview data security policies. The detailed agent view also indicates what policies are applied to the agent and provides the option for administrators to create a policy directly from this view to address any coverage gaps. #copilotcontrolsystem",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)",
-      "Microsoft Purview"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Preview"
-    ],
-    "previewDate": "May CY2025",
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-04-23T16:15:28",
-    "modified": "2025-10-10T22:15:35",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=489492"
-  },
-  {
     "id": 489808,
     "title": "Microsoft Teams: Polls support in Teams Town hall [Premium]",
     "description": "Organizers can now create and share polls directly within Teams Town halls, gathering real-time feedback from participants through multiple-choice questions and other types of polls. This feature is available for town hall organizers that have an active Teams Premium license.",
@@ -10865,31 +10762,6 @@
     "modified": "2025-11-06T00:00:20",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=491022"
-  },
-  {
-    "id": 491023,
-    "title": "SharePoint: Optical Character Recognition (OCR) Backfill for SharePoint Sites",
-    "description": "We are thrilled to announce a powerful new feature that allows tenant admins to select an existing SharePoint Online (SPO) site and backfill OCR for documents already present in the library. This means you no longer need to move all your documents to a new site to ensure they are OCRed and protected. We plan to release a private preview at end of May, if you would like to enable this feature please reach out the feature team and we will enable the feature on your tenant. Only files without OCR will be processed, ensuring efficient use of resources and preventing double charges for unchanged documents. This update streamlines your workflow, making it easier to manage and protect your documents.",
-    "status": "Launched",
-    "products": [
-      "SharePoint"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Targeted Release"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "June CY2025",
-    "created": "2025-04-28T23:15:36",
-    "modified": "2025-10-10T22:15:35",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=491023"
   },
   {
     "id": 491027,
@@ -12155,31 +12027,6 @@
     "modified": "2025-12-05T23:45:06",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=494510"
-  },
-  {
-    "id": 494511,
-    "title": "Microsoft Copilot (Microsoft 365): Microsoft 365 Copilot Chat - General Availability for the DoD environment",
-    "description": "Microsoft 365 Copilot Chat Copilot is available at no additional cost for Microsoft 365 DOD users who sign in with their Microsoft Entra account (no Microsoft 365 Copilot license required). Microsoft 365 Copilot Chat offers enterprise data protection (EDP), and secure AI chat designed for work, powered by the latest large language models with optional web grounding. The general availability of this release will be delivered to the users with web grounding OFF by default to meet US Government requirements. This will help protect sensitive information which should not leave the DOD compliance boundary.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)"
-    ],
-    "cloudInstances": [
-      "DoD"
-    ],
-    "platforms": [
-      "Desktop",
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "August CY2025",
-    "created": "2025-06-19T02:15:23",
-    "modified": "2025-10-10T22:00:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=494511"
   },
   {
     "id": 494515,
@@ -14297,33 +14144,6 @@
     "modified": "2025-06-26T23:15:17",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=497548"
-  },
-  {
-    "id": 497637,
-    "title": "Minecraft Education: Update v1.21.9",
-    "description": "The \"Chase the Clouds\" update for Minecraft Education, bringing the version to 1.21.9.",
-    "status": "Launched",
-    "products": [
-      "Minecraft Education"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Android",
-      "Desktop",
-      "Mac",
-      "iOS"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2025-06-27T22:15:28",
-    "modified": "2025-10-10T22:15:35",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=497637"
   },
   {
     "id": 497638,
@@ -16724,31 +16544,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499800"
   },
   {
-    "id": 499809,
-    "title": "Microsoft Copilot (Microsoft 365): Harmful Content Protection Controls in Microsoft 365 Copilot Chat",
-    "description": "We’re introducing a new policy setting in Microsoft 365 Copilot Chat that gives administrators enhanced control over how users interact with harmful content protection. This feature is designed to support specialized roles—such as legal, investigative, or moderation teams—where exposure to sensitive content may be necessary.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Teams and Surface Devices",
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-08-01T22:45:03",
-    "modified": "2025-10-10T21:45:47",
-    "moreInfoLink": "https://learn.microsoft.com/en-us/copilot/microsoft-365/harmful-content-protection-copilot-chat",
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499809"
-  },
-  {
     "id": 499889,
     "title": "Microsoft Teams: Raise hands in Town Hall",
     "description": "Currently in a Teams Town hall, attendees cannot raise their hands and share their microphone and camera as they can in a meeting. With this new update, town halls organized by users with Teams Premium will allow attendees to raise their hand like they would in a standard Teams meeting. The ability to raise a hand can signal to organizers and presenters, who can then bring attendees on screen to allow them to share their camera and microphone.",
@@ -18046,30 +17841,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=500895"
   },
   {
-    "id": 500896,
-    "title": "Microsoft 365 admin center: New Support for Historical Data Uploads in Organizational Data in Microsoft 365",
-    "description": "Organizational Data in Microsoft 365 now allows administrators to upload historical HR data manually via CSV files. A new toggle in the upload experience lets admins specify whether the data is current or historical. For historical uploads, admins can assign an effective date to the file, ensuring accurate ingestion and processing by downstream apps like Viva Insights. This update improves data consistency across M365 and Viva apps and supports retroactive updates for organizational reporting.",
-    "status": "Launched",
-    "products": [
-      "Microsoft 365 admin center"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-09-29T23:15:03",
-    "modified": "2025-10-10T22:00:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=500896"
-  },
-  {
     "id": 501107,
     "title": "Microsoft Teams: Copilot Chat for Teams Chats, Channels, Calling and Meetings",
     "description": "Copilot Chat will soon be available for Teams chats, channels, calling and meetings.",
@@ -18873,8 +18644,8 @@
   {
     "id": 501570,
     "title": "Microsoft Copilot (Microsoft 365): Replace stock video footage with AI-Generated Images in Microsoft 365 Copilot",
-    "description": "Easily swap stock visuals for AI-generated images in your videos using the Create experience in Microsoft 365 Copilot. Powered by OpenAI’s latest image generation model, this feature helps you tailor content, explain concepts more clearly, and help make your videos stand out.",
-    "status": "In development",
+    "description": "Easily swap stock visuals for AI-generated images in your videos using the Create experience in Microsoft 365 Copilot. Powered by OpenAI’s latest image generation model, this feature helps you tailor content, explain concepts more clearly, and help make your videos stand out. Updated August 10, 2026: We have decided not to move forward with this change at this time. We apologize for any inconvenience.",
+    "status": "Cancelled",
     "products": [
       "Microsoft Copilot (Microsoft 365)"
     ],
@@ -18892,7 +18663,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "November CY2025",
     "created": "2025-09-22T23:00:43",
-    "modified": "2025-09-22T23:00:43",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=501570"
   },
@@ -19226,30 +18997,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=501787"
   },
   {
-    "id": 502516,
-    "title": "SharePoint: Metadata understanding in SharePoint agents",
-    "description": "This update will allow agents grounded in SharePoint library contents to use and reason over available metadata to better distinguish between similar documents and provide higher-quality answers.",
-    "status": "Launched",
-    "products": [
-      "SharePoint"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-09-04T23:15:49",
-    "modified": "2025-10-10T22:00:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=502516"
-  },
-  {
     "id": 502519,
     "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention: Expand protection to Copilot + PC devices for Recall snapshots through custom policies",
     "description": "Microsoft Purview Endpoint data loss prevention is expanding coverage to Copilot + PCs initially to support Recall snapshots and determining whether policies exist to prevent capture of windows containing restricted sensitivity labels and Sensitive information types (SITs). Purview admins will author Endpoint DLP custom policies to integrate with Windows Copilot + PC Recall setup by Intune admins for Copilot + PC devices exclusively.",
@@ -19278,7 +19025,7 @@
     "id": 502520,
     "title": "Microsoft Teams: New sharing panel in meetings - improved content discovery and ease of sharing",
     "description": "The sharing panel in today’s meetings is the default place for content discoverability and sharing. New sharing panel UI is crafted with intent of modernising and simplifying default tasks such as window sharing, but also for easier discovery of sharing options and more discoverable file sharing.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Teams"
     ],
@@ -19299,7 +19046,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "September CY2026",
     "created": "2025-10-29T23:00:59",
-    "modified": "2026-07-28T22:43:45",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=502520"
   },
@@ -21847,7 +21594,7 @@
     "id": 508524,
     "title": "Outlook: User-initiated Copilot insights in classic Outlook",
     "description": "Users can manually select text and ask Copilot to help provide relevant information.",
-    "status": "Rolling out",
+    "status": "In development",
     "products": [
       "Outlook"
     ],
@@ -21862,9 +21609,9 @@
       "Preview"
     ],
     "previewDate": "May CY2026",
-    "generalAvailabilityDate": "June CY2026",
+    "generalAvailabilityDate": "September CY2026",
     "created": "2025-11-19T00:15:24",
-    "modified": "2026-06-01T23:15:29",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=508524"
   },
@@ -28717,7 +28464,7 @@
     "id": 542790,
     "title": "Microsoft Purview: Data Security Posture Management-Data Security Posture Agent in DSPM",
     "description": "The Data Security Posture Agent is designed to expand the capacity of data security admins as they proactively work to stay on top of a dynamic data and risk landscape within their organization. Its primary job is to help discover sensitive data across your data estate. This agent is designed to analyze and search documents, emails, and messages that match the natural-language discovery intent requested by the user and assess associated risks. By moving beyond traditional keyword and information-type analysis and harnessing the power of LLMs, this agent enables organizations to identify risks based on the actual purpose and context of the content and take appropriate action.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Purview"
     ],
@@ -28734,7 +28481,7 @@
     "previewDate": "December CY2025",
     "generalAvailabilityDate": "June CY2026",
     "created": "2025-12-17T00:15:13",
-    "modified": "2026-06-17T23:15:06",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=542790"
   },
@@ -33099,7 +32846,7 @@
     "id": 557191,
     "title": "Microsoft Purview: Data Loss Prevention – Block External Domain/User action in DLP for SharePoint/OneDrive",
     "description": "Block External Domain/User action in Microsoft Purview DLP for SharePoint and OneDrive, gives organizations stronger control over who can access sensitive files. With this enhancement, admins can configure DLP policies that block file access for specific external domains or individual users. This capability helps prevent unintended exposure by external users and supports enterprise compliance requirements.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Purview"
     ],
@@ -33116,7 +32863,7 @@
     "previewDate": "April CY2026",
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-04-02T23:15:15",
-    "modified": "2026-07-14T22:41:38",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=557191"
   },
@@ -34579,7 +34326,7 @@
     "id": 558250,
     "title": "Microsoft 365 Apps: Cloud Update - Simplified Channel Management",
     "description": "Use device selection criteria in Cloud Update to assign profiles using Microsoft Entra ID groups and streamline the onboarding process. Admins can combine channel and profile assignment in a single step, making it easier to move devices between update channels and maintain consistent update management across the organization.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft 365",
       "Microsoft 365 app"
@@ -34598,7 +34345,7 @@
     "previewDate": "May CY2026",
     "generalAvailabilityDate": "June CY2026",
     "created": "2026-03-10T23:00:58",
-    "modified": "2026-06-15T23:00:45",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=558250"
   },
@@ -38181,9 +37928,9 @@
       "Targeted Release"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "July CY2026",
+    "generalAvailabilityDate": "September CY2026",
     "created": "2026-04-22T23:30:25",
-    "modified": "2026-04-22T23:30:25",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=560339"
   },
@@ -38725,7 +38472,7 @@
     "id": 560551,
     "title": "Microsoft Viva: Viva Glint - Configure data retention policy for Viva Glint",
     "description": "This feature will introduce the capability for Glint service administrators to configure a data retention policy for their Glint instances based on the organizational policies. Any past survey cycles including engagement surveys, always-on surveys, lifecycle surveys and 360s will be retained/deleted based on this data retention configuration period.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Viva"
     ],
@@ -38742,7 +38489,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "June CY2026",
     "created": "2026-04-17T22:15:50",
-    "modified": "2026-06-26T22:01:51",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=560551"
   },
@@ -39324,7 +39071,7 @@
     "id": 560821,
     "title": "Microsoft Viva: Viva Glint - Export Heat Map report in Viva Glint to editable PowerPoint slides",
     "description": "Managers will be able to export the default sections from the Heat Map report in Viva Glint directly to editable PowerPoint slides. This enhancement allows for easier and quicker consumption of this report outside Viva Glint, compared to the previous export method which included static screenshots.",
-    "status": "In development",
+    "status": "Launched",
     "products": [
       "Microsoft Viva"
     ],
@@ -39341,7 +39088,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-04-21T23:00:01",
-    "modified": "2026-04-21T23:00:01",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=560821"
   },
@@ -39630,7 +39377,7 @@
     "id": 561037,
     "title": "Microsoft Copilot (Microsoft 365): Vision in Microsoft 365 Copilot can analyze content shared on desktop screen and through mobile camera",
     "description": "Vision in Microsoft 365 Copilot helps you make faster, more informed decisions by understanding context from what you share on screen or camera. Copilot can analyze visual inputs from shared desktop screens and provide detailed insights about the content. You can also use vision on mobile during a real-time voice session to share your device camera, front or back, and ask questions about what is in front of you. Copilot analyzes the live camera feed or desktop screen in real time and provides spoken, context-aware answers grounded in work and web data.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Copilot (Microsoft 365)"
     ],
@@ -39648,7 +39395,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "June CY2026",
     "created": "2026-05-11T23:15:11",
-    "modified": "2026-06-26T22:01:51",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=561037"
   },
@@ -40219,9 +39966,9 @@
       "Targeted Release"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "August CY2026",
+    "generalAvailabilityDate": "September CY2026",
     "created": "2026-05-11T23:15:11",
-    "modified": "2026-07-07T23:01:01",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=561490"
   },
@@ -40644,7 +40391,7 @@
     "id": 561892,
     "title": "Microsoft Purview: Data Loss Prevention for Microsoft 365 Copilot to safeguard prompts for government clouds",
     "description": "We are expanding Microsoft Purview DLP for Microsoft 365 Copilot to safeguard prompts containing sensitive data. This real-time control helps organizations mitigate data leakage and oversharing risks by preventing Microsoft 365 Copilot and Copilot Chat from returning a response when prompts contain sensitive data or using that sensitive data for grounding in Microsoft 365 or the web.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Purview"
     ],
@@ -40662,7 +40409,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "June CY2026",
     "created": "2026-05-11T23:15:11",
-    "modified": "2026-07-29T23:07:26",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=561892"
   },
@@ -40989,7 +40736,7 @@
     "id": 562033,
     "title": "Microsoft Purview: Role groups UI enhancements",
     "description": "The Role groups page in the Microsoft Purview compliance portal now allows admins to look up permissions by roles and memberships.",
-    "status": "In development",
+    "status": "Launched",
     "products": [
       "Microsoft Purview"
     ],
@@ -41007,7 +40754,7 @@
     "previewDate": "June CY2026",
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-05-11T23:15:11",
-    "modified": "2026-05-11T23:15:11",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=562033"
   },
@@ -42363,7 +42110,7 @@
     "id": 564910,
     "title": "Microsoft Copilot (Microsoft 365): Outlook Emails in Copilot Notebooks",
     "description": "Outlook Emails as References in Copilot Notebooks bring email content into the notebook experience, enabling users to ground Copilot in the conversations, decisions, and context that drive their work. By adding emails as knowledge sources, users can connect context from their emails directly to their projects, enriching notebooks beyond files alone and improving downstream outputs like presentations and briefs. Available in Copilot Notebooks across Microsoft 365.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Copilot (Microsoft 365)"
     ],
@@ -42381,7 +42128,7 @@
     "previewDate": "June CY2026",
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-06-01T23:15:29",
-    "modified": "2026-07-28T22:43:45",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=564910"
   },
@@ -42568,7 +42315,7 @@
     "id": 565028,
     "title": "OneDrive: New Shortcuts folder option when adding shortcuts",
     "description": "OneDrive makes it easy to add shortcuts to the files and folders you use most. Now you can choose to keep those shortcuts neatly together in one place instead of mixed in with everything else. When you add a shortcut, you can send it to a dedicated \"Shortcuts\" folder rather than your OneDrive root. The folder is created automatically the first time you use it and is easy to spot, with a distinct color and building icon. The Shortcuts folder behaves like any other folder—move it, rename it, share it, or remove it whenever you like.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "OneDrive"
     ],
@@ -42587,7 +42334,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-06-03T23:00:57",
-    "modified": "2026-07-21T22:37:32",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565028"
   },
@@ -46629,6 +46376,35 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568789"
   },
   {
+    "id": 568790,
+    "title": "Microsoft Copilot (Microsoft 365): Review PDFs using the Copilot context menu on OneDrive iOS",
+    "description": "Microsoft 365 Copilot makes PDF reviews faster and easier on mobile. Select text in any PDF in OneDrive iOS and tap Ask Copilot to explain, summarize, translate, or ask a custom question about the selection — the same in-context Copilot experience already generally available on desktop, now on OneDrive iOS.",
+    "status": "In development",
+    "products": [
+      "Microsoft Copilot (Microsoft 365)",
+      "OneDrive",
+      "SharePoint"
+    ],
+    "cloudInstances": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "iOS"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-10T22:43:02",
+    "modified": "2026-08-10T22:43:02",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568790"
+  },
+  {
     "id": 568791,
     "title": "Planner: Refreshed experience and new capabilities",
     "description": "Microsoft Planner will be updated with a cleaner, more modern interface, improved navigation, responsive layouts, and a more consistent experience across Planner in Teams and Planner for the web. This update also introduces Goals in basic plans.",
@@ -46681,6 +46457,56 @@
     "modified": "2026-08-05T22:47:32",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568792"
+  },
+  {
+    "id": 568793,
+    "title": "Microsoft Edge: Updated horizontal tab appearance",
+    "description": "Microsoft Edge is introducing an updated horizontal tab-strip appearance on Windows and macOS. The treatment uses rounded tabs with revised spacing and aligns related tab-strip controls with the refreshed browser-frame design. Tab behavior and enterprise data handling remain unchanged.",
+    "status": "In development",
+    "products": [
+      "Microsoft Edge"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-10T22:43:02",
+    "modified": "2026-08-10T22:43:02",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568793"
+  },
+  {
+    "id": 568929,
+    "title": "Microsoft Copilot Studio: Dataverse integration on Copilot Studio",
+    "description": "We are enabling Microsoft Dataverse as a native knowledge source in Copilot Studio, expanding the platform’s ability to ground AI agents in structured enterprise data. This enhancement allows organizations to leverage business-critical information stored in Dataverse—including records, customer data, operational data, and business application content—as a trusted knowledge source for agent experiences.",
+    "status": "In development",
+    "products": [
+      "Microsoft Copilot Studio"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability",
+      "Preview",
+      "Targeted Release"
+    ],
+    "previewDate": "August CY2026",
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-10T22:43:02",
+    "modified": "2026-08-10T22:43:02",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568929"
   },
   {
     "id": 568930,
@@ -46847,6 +46673,8 @@
       "Microsoft Teams"
     ],
     "cloudInstances": [
+      "GCC",
+      "GCC High",
       "Worldwide (Standard Multi-Tenant)"
     ],
     "platforms": [
@@ -46854,12 +46682,13 @@
       "Mac"
     ],
     "releasePhases": [
-      "General Availability"
+      "General Availability",
+      "Targeted Release"
     ],
     "previewDate": null,
     "generalAvailabilityDate": "September CY2026",
     "created": "2026-08-07T21:45:15",
-    "modified": "2026-08-07T21:45:15",
+    "modified": "2026-08-10T22:43:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569017"
   },
