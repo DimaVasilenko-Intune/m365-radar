@@ -203,9 +203,9 @@
       "Preview"
     ],
     "previewDate": "December CY2023",
-    "generalAvailabilityDate": "June CY2026",
+    "generalAvailabilityDate": "September CY2026",
     "created": "2022-06-02T23:05:12",
-    "modified": "2025-12-03T00:15:38",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=93268"
   },
@@ -5548,9 +5548,9 @@
       "Targeted Release"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2025-01-23T00:15:18",
-    "modified": "2026-07-16T23:08:19",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=476488"
   },
@@ -14613,7 +14613,7 @@
     "id": 497999,
     "title": "Microsoft 365 admin center: Agents usage report",
     "description": "A new agents usage report will be available in the Microsoft 365 admin center. The report will be scoped to include agents in M365 Copilot and Copilot Chat with usage by both M365 Copilot licensed and unlicensed users. The report will include total active agent users, total active agents, active users segmentation by licensed and unlicensed users, and active users and active agents segmentation by publisher type (i.e. user-created agents, agents built by your org, agents built by Microsoft, agents built by Microsoft partners). The report will also include usage details per user, agent, and user-agent pair. #copilotcontrolsystem",
-    "status": "In development",
+    "status": "Launched",
     "products": [
       "Microsoft 365 admin center",
       "Microsoft Copilot (Microsoft 365)"
@@ -14630,7 +14630,7 @@
     "previewDate": "August CY2025",
     "generalAvailabilityDate": "July CY2026",
     "created": "2025-07-02T23:15:48",
-    "modified": "2026-05-11T23:15:11",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=497999"
   },
@@ -19025,7 +19025,7 @@
     "id": 502520,
     "title": "Microsoft Teams: New sharing panel in meetings - improved content discovery and ease of sharing",
     "description": "The sharing panel in today’s meetings is the default place for content discoverability and sharing. New sharing panel UI is crafted with intent of modernising and simplifying default tasks such as window sharing, but also for easier discovery of sharing options and more discoverable file sharing.",
-    "status": "Rolling out",
+    "status": "In development",
     "products": [
       "Microsoft Teams"
     ],
@@ -19046,7 +19046,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "September CY2026",
     "created": "2025-10-29T23:00:59",
-    "modified": "2026-08-10T22:43:02",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=502520"
   },
@@ -21567,7 +21567,7 @@
     "id": 508521,
     "title": "Microsoft Teams: Room health signals and notifications in Teams Rooms on Windows",
     "description": "When critical issues impact room functionality, users see a banner notification on both the front-of-room display and console in Teams Rooms on Windows. Room health signals help get issues resolved quickly and ensure productive meetings. Available with Teams Rooms Pro.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Teams"
     ],
@@ -21586,7 +21586,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "May CY2026",
     "created": "2025-10-02T23:15:34",
-    "modified": "2026-05-18T22:30:51",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=508521"
   },
@@ -34710,10 +34710,10 @@
       "General Availability",
       "Preview"
     ],
-    "previewDate": "July CY2026",
-    "generalAvailabilityDate": "September CY2026",
+    "previewDate": "August CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-03-09T23:15:17",
-    "modified": "2026-07-28T22:43:45",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=558343"
   },
@@ -37408,7 +37408,7 @@
     "id": 560055,
     "title": "Microsoft Teams: Efficiency Mode",
     "description": "Teams efficiency mode improves performance and responsiveness on hardware constrained devices by applying a reduced resource configuration by default, helping maintain meeting quality and responsiveness during collaboration.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Teams"
     ],
@@ -37429,7 +37429,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "May CY2026",
     "created": "2026-04-20T18:45:45",
-    "modified": "2026-05-20T23:15:13",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=560055"
   },
@@ -37486,7 +37486,7 @@
     "id": 560074,
     "title": "Microsoft Teams: Test your microphone before you join",
     "description": "Before joining a meeting on your pre-join screen, you can test your microphone and speaker to make sure others will hear you clearly. Select Test mic and speaker to record a short audio clip and play it back. This helps you confirm that the right devices are selected and that you’ll be heard—and hear others—once the meeting starts.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Teams"
     ],
@@ -37507,7 +37507,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "May CY2026",
     "created": "2026-04-10T21:45:06",
-    "modified": "2026-05-19T22:45:25",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=560074"
   },
@@ -38846,9 +38846,9 @@
   },
   {
     "id": 560706,
-    "title": "Microsoft Copilot (Microsoft 365): Teams Meetings in Copilot Notebooks",
+    "title": "Teams Meetings in Copilot Notebooks",
     "description": "Meetings as References in Copilot Notebooks bring Teams meeting content into the notebook experience, enabling users to ground Copilot on the discussions, decisions, and context that drive their work. By adding meetings as knowledge sources, users can connect transcripts, notes, chats, and shared content directly to their projects, enriching notebooks beyond files alone and improving downstream outputs like presentations and briefs. Available in Copilot Notebooks across Microsoft 365.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Copilot (Microsoft 365)",
       "OneNote"
@@ -38870,7 +38870,7 @@
     "previewDate": "April CY2026",
     "generalAvailabilityDate": "June CY2026",
     "created": "2026-04-30T23:30:16",
-    "modified": "2026-06-01T23:15:29",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=560706"
   },
@@ -40538,10 +40538,10 @@
       "General Availability",
       "Preview"
     ],
-    "previewDate": "June CY2026",
-    "generalAvailabilityDate": "July CY2026",
+    "previewDate": "December CY2026",
+    "generalAvailabilityDate": "January CY2027",
     "created": "2026-05-13T23:00:44",
-    "modified": "2026-05-13T23:00:44",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=561919"
   },
@@ -40988,10 +40988,10 @@
       "General Availability",
       "Preview"
     ],
-    "previewDate": "May CY2026",
-    "generalAvailabilityDate": "June CY2026",
+    "previewDate": "November CY2026",
+    "generalAvailabilityDate": "December CY2026",
     "created": "2026-05-15T22:00:42",
-    "modified": "2026-05-15T22:00:42",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=562342"
   },
@@ -41065,9 +41065,9 @@
       "Preview"
     ],
     "previewDate": "June CY2026",
-    "generalAvailabilityDate": "July CY2026",
+    "generalAvailabilityDate": "August CY2026",
     "created": "2026-05-15T22:00:42",
-    "modified": "2026-07-02T23:12:48",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=562351"
   },
@@ -41955,7 +41955,7 @@
     "id": 564765,
     "title": "Microsoft Purview: Data Loss Prevention - User Based Aggregation of DLP Alerts",
     "description": "Enable aggregation of DLP alerts based on common entities user even when multiple rules are matched. This feature should consolidate related alert events into a single alert object to: Reduce alert noise, simplify investigation workflows, enhance contextual understanding of violations.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Purview"
     ],
@@ -41972,7 +41972,7 @@
     "previewDate": "July CY2026",
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-06-01T23:15:29",
-    "modified": "2026-06-01T23:15:29",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=564765"
   },
@@ -42451,7 +42451,7 @@
     "id": 565218,
     "title": "Microsoft Teams: Queues app for Microsoft Teams in GCC High and DoD",
     "description": "We’re excited to announce that the Queues app is now available in the GCC High and DoD clouds. This Teams-native app helps organizations manage customer engagements more efficiently by bringing advanced call queue and auto attendant capabilities directly into Teams. Queues app is a Teams Premium feature. For more information about Queues app, including licensing information, please see Manage Queues app for Microsoft Teams in your organization.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Teams"
     ],
@@ -42469,7 +42469,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-06-09T20:46:16",
-    "modified": "2026-07-16T23:08:19",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565218"
   },
@@ -42550,10 +42550,10 @@
       "General Availability",
       "Preview"
     ],
-    "previewDate": "July CY2026",
+    "previewDate": "August CY2026",
     "generalAvailabilityDate": "September CY2026",
     "created": "2026-06-05T22:00:28",
-    "modified": "2026-06-05T22:00:28",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565222"
   },
@@ -42883,10 +42883,10 @@
       "General Availability",
       "Preview"
     ],
-    "previewDate": "July CY2026",
-    "generalAvailabilityDate": "August CY2026",
+    "previewDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-06-15T23:00:45",
-    "modified": "2026-06-15T23:00:45",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565868"
   },
@@ -43623,7 +43623,7 @@
     "id": 566697,
     "title": "OneDrive: PDF annotation for sensitivity-label protected PDFs in the OneDrive apps (iOS and Android)",
     "description": "The Microsoft OneDrive apps for iOS and Android will let users annotate PDFs protected by a Microsoft Purview Information Protection sensitivity label that applies encryption — without removing or weakening the label. Users with edit/annotate rights can add a full set of annotations — including ink, highlight, free text, notes, signatures, image/shape/date stamps, bookmarks, and form fields — directly in the OneDrive mobile PDF viewer; the file's encryption and usage rights are preserved end to end. This applies to the OneDrive apps for iOS and Android only (not OneDrive or SharePoint on the web). The feature is enabled by default for eligible users and requires no new admin action.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "OneDrive"
     ],
@@ -43643,7 +43643,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-07-09T23:26:18",
-    "modified": "2026-07-09T23:26:18",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=566697"
   },
@@ -45111,7 +45111,7 @@
     "id": 567465,
     "title": "Microsoft Teams: Teams shared display mode and peripheral detection available for DoD environments",
     "description": "Shared display mode in Teams is now available in government DOD environments, enabling more seamless and private meeting hosting from your PC. Additionally, peripheral detection for bring-your-own-device spaces is available for inventory management and reporting through the Pro Management portal.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Teams"
     ],
@@ -45129,7 +45129,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-07-15T22:55:27",
-    "modified": "2026-08-03T22:55:03",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567465"
   },
@@ -45732,9 +45732,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-08-03T22:55:03",
-    "modified": "2026-08-03T22:55:03",
+    "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568067"
   },
@@ -45841,6 +45841,32 @@
     "modified": "2026-08-06T22:57:59",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568075"
+  },
+  {
+    "id": 568076,
+    "title": "Microsoft Entra: Windows Hello for Business and macOS Platform Single Sign-on can now be used as a second factor for MFA",
+    "description": "Windows Hello for Business (WHfB) and macOS Platform SSO (macOS PSSO) can now satisfy multifactor authentication as a standalone second factor. Previously, these methods only counted as MFA during primary sign-in, and users needed a separate passkey to complete step-up prompts, Authentication Strength policies, and sign-in frequency checks. With this change, WHfB and macOS PSSO work on their own for those scenarios, so more of your users can rely on strong, phishing-resistant sign-in without registering an extra method. What you need to know: Users who have only WHfB or macOS PSSO are now treated as MFA-capable and will no longer be automatically prompted to register another method. Because WHfB and macOS PSSO are tied to a specific device, we recommend having users register a portable method, such as a passkey or Microsoft Authenticator, during onboarding so they can complete MFA from any device.",
+    "status": "In development",
+    "products": [
+      "Microsoft Entra"
+    ],
+    "cloudInstances": [
+      "GCC",
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Desktop",
+      "Mac"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-11T22:53:53",
+    "modified": "2026-08-11T22:53:53",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568076"
   },
   {
     "id": 568078,
@@ -46559,6 +46585,28 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568931"
   },
   {
+    "id": 568932,
+    "title": "Microsoft Teams: Collect information with list form in Workflows",
+    "description": "Starts a workflow with a form to collect the information you need to run the rest of your workflow.",
+    "status": "In development",
+    "products": [
+      "Microsoft Teams"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-11T22:53:53",
+    "modified": "2026-08-11T22:53:53",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568932"
+  },
+  {
     "id": 568933,
     "title": "Microsoft Teams: Use Copilot Chat after a call in Queues app",
     "description": "After a recorded call is completed, use Copilot in the Queues app to quickly catch up on key details, uncover insights, and resolve customer issues faster without having to manually search through a transcript or listen back to a recording. Navigate to the unified call history in the Queues app, select the recorded call record, and launch the Copilot Chat sidecar from within the Recap tab. You can then ask Copilot to generate a summary or answer questions about specific details related to the call.",
@@ -46693,6 +46741,30 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569017"
   },
   {
+    "id": 569019,
+    "title": "Microsoft Teams: Identify custom apps that need updates for Teams private and shared channels",
+    "description": "Admins will be able to view in Teams Admin Center a list of custom apps in their tenant that need to be updated to work in private and shared channels. This experience will help admins identify impacted apps, understand which apps require developer action, and coordinate updates so users can continue using custom apps across all supported channel types.",
+    "status": "In development",
+    "products": [
+      "Microsoft Teams"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-11T22:53:53",
+    "modified": "2026-08-11T22:53:53",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569019"
+  },
+  {
     "id": 569020,
     "title": "OneDrive: Anchored comments in the PDF viewer",
     "description": "Microsoft is adding anchored comments to the PDF viewer in OneDrive and SharePoint on the web. Users can attach a comment to a specific spot on a page, to selected text, and collaborate through replies and @mentions — bringing PDF review to parity with commenting in Office documents. This feature will be on by default and requires no admin action.",
@@ -46800,5 +46872,165 @@
     "modified": "2026-08-07T21:45:15",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569023"
+  },
+  {
+    "id": 569203,
+    "title": "OneNote: New Copilot Notebooks design in the Microsoft 365 Copilot app (DoD, GCC, GCC High)",
+    "description": "The new Copilot Notebooks design in the Microsoft 365 Copilot app for DoD, GCC, and GCC High clouds now lets users organize related chats, output creations, and references into a persistent AI workspace. Copilot uses the Notebook's accumulated context to ground responses, so work continues across sessions instead of starting over each time. While this is the quicker, light-weight Notebooks experience, you can still find the workspace-forward experience in OneNote.",
+    "status": "In development",
+    "products": [
+      "OneNote"
+    ],
+    "cloudInstances": [
+      "DoD",
+      "GCC",
+      "GCC High"
+    ],
+    "platforms": [
+      "Desktop",
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-11T22:53:53",
+    "modified": "2026-08-11T22:53:53",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569203"
+  },
+  {
+    "id": 569208,
+    "title": "SharePoint: HTML pages",
+    "description": "Create HTML with Copilot in SharePoint or upload your own HTML from another source. Once stored in the pages library, you can render HTML as a page in SharePoint, make additional edits, and share with your audience. HTML gives you new ways to present your content beautifully alongside our existing ASPX pages.",
+    "status": "In development",
+    "products": [
+      "Microsoft Copilot (Microsoft 365)",
+      "SharePoint"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability",
+      "Targeted Release"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-11T22:53:53",
+    "modified": "2026-08-11T22:53:53",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569208"
+  },
+  {
+    "id": 569209,
+    "title": "Microsoft Teams: Add multiple steps when building a workflow from scratch",
+    "description": "You will now be able to add multiple steps to your workflow when building one from scratch.",
+    "status": "In development",
+    "products": [
+      "Microsoft Teams"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Desktop",
+      "Mac"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-11T22:53:53",
+    "modified": "2026-08-11T22:53:53",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569209"
+  },
+  {
+    "id": 569210,
+    "title": "Microsoft Copilot (Microsoft 365): CSV and TSV references in Copilot Notebooks",
+    "description": "Copilot Notebooks now supports CSV and TSV files as knowledge sources, allowing users to bring structured lists and tables directly into their projects alongside traditional documents. This additional context helps Copilot generate more relevant presentations, reports, and briefs.",
+    "status": "In development",
+    "products": [
+      "Microsoft Copilot (Microsoft 365)",
+      "OneNote"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Android",
+      "Desktop",
+      "Web",
+      "iOS"
+    ],
+    "releasePhases": [
+      "General Availability",
+      "Preview"
+    ],
+    "previewDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-11T22:53:53",
+    "modified": "2026-08-11T22:53:53",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569210"
+  },
+  {
+    "id": 569211,
+    "title": "Microsoft Copilot (Microsoft 365): JPG and PNG references in Copilot Notebooks",
+    "description": "Copilot Notebooks now supports JPG and PNG files as knowledge sources, allowing users to bring images directly into their projects alongside traditional documents. Copilot can use the content within these images, including text, charts, diagrams, and other visuals, as grounding context to help generate more relevant presentations, reports, and briefs.",
+    "status": "In development",
+    "products": [
+      "Microsoft Copilot (Microsoft 365)",
+      "OneNote"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Android",
+      "Web",
+      "iOS"
+    ],
+    "releasePhases": [
+      "General Availability",
+      "Preview"
+    ],
+    "previewDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-11T22:53:53",
+    "modified": "2026-08-11T22:53:53",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569211"
+  },
+  {
+    "id": 569213,
+    "title": "Microsoft Copilot (Microsoft 365): Add Agents and Skills from the Plus menu",
+    "description": "Users will be able to insert Agents and Skills in prompts for specialized tasks. They can add them from the Agents and Skills tab after selecting 'Add work content' from the plus (+) menu. Users can also access Agents and Skills by typing / and @ in their prompt.",
+    "status": "In development",
+    "products": [
+      "Microsoft Copilot (Microsoft 365)"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Desktop",
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-11T22:53:53",
+    "modified": "2026-08-11T22:53:53",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569213"
   }
 ]
