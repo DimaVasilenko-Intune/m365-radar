@@ -131,8 +131,8 @@
   {
     "id": 88537,
     "title": "Outlook: Support for AppleScript in the New Outlook for Mac",
-    "description": "AppleScript is a language used to automate the actions of the MacOS and many of its applications. We will add support for this feature in the new Outlook for Mac.",
-    "status": "In development",
+    "description": "AppleScript workflows vary widely across organizations and often depend on behaviors from the classic app that don’t exist in the New Outlook. Because these patterns can’t be standardized, full compatibility isn’t feasible. We have decided not to move forward with this feature. We apologize for the inconvenience.",
+    "status": "Cancelled",
     "products": [
       "Outlook"
     ],
@@ -151,7 +151,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "December CY2025",
     "created": "2021-12-08T00:11:46",
-    "modified": "2025-02-04T00:15:04",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=88537"
   },
@@ -29809,7 +29809,7 @@
     "id": 548652,
     "title": "Microsoft Teams: Ad-hoc room reservation from Teams Rooms on Android console",
     "description": "With Teams Rooms on Android consoles, you can quickly book a meeting room for immediate use, helping to avoid scheduling conflicts and ensure uninterrupted spontaneous meetings. Available in Teams Rooms Pro-licensed rooms.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Teams"
     ],
@@ -29828,7 +29828,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "April CY2026",
     "created": "2026-01-22T00:00:09",
-    "modified": "2026-04-13T23:15:13",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=548652"
   },
@@ -30785,9 +30785,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "July CY2026",
+    "generalAvailabilityDate": "August CY2026",
     "created": "2026-02-18T00:00:38",
-    "modified": "2026-07-28T22:43:45",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=553224"
   },
@@ -35306,10 +35306,10 @@
       "General Availability",
       "Preview"
     ],
-    "previewDate": "July CY2026",
-    "generalAvailabilityDate": "August CY2026",
+    "previewDate": "October CY2026",
+    "generalAvailabilityDate": "November CY2026",
     "created": "2026-03-24T23:15:57",
-    "modified": "2026-07-15T22:55:27",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=558682"
   },
@@ -36998,8 +36998,8 @@
   {
     "id": 559614,
     "title": "Microsoft Copilot (Microsoft 365): Copilot improved long files navigation using document structure, enabling more accurate answers and clearer citations.",
-    "description": "We’ve improved how Copilot reads long and complex files by making it more aware of document structure. When you ask a question, Copilot can now navigate to the most relevant parts of your document (for example, specific sections/pages) before answering—helping reduce missed details and improving confidence with clearer citations that are easier to trace back to the source.",
-    "status": "In development",
+    "description": "We’ve improved how Copilot reads long and complex files by making it more aware of document structure. When you ask a question, Copilot can now navigate to the most relevant parts of your document (for example, specific sections/pages) before answering—helping reduce missed details and improving confidence with clearer citations that are easier to trace back to the source. We have decided not to move forward with this feature. We apologize for the inconvenience.",
+    "status": "Cancelled",
     "products": [
       "Microsoft Copilot (Microsoft 365)"
     ],
@@ -37016,7 +37016,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-04-24T22:00:04",
-    "modified": "2026-06-25T23:15:45",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=559614"
   },
@@ -37154,7 +37154,7 @@
     "id": 559801,
     "title": "Outlook: Jump to Any Folder Instantly with Go to Folder",
     "description": "You can now quickly search for and navigate to any folder in your mailbox using the new Go to Folder feature. Instead of scrolling through long folder lists, just press Ctrl+Y or access it from your accounts context menu to instantly find what you need. Type a few letters of the folder name and jump straight there. #newoutlookforwindows",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Outlook"
     ],
@@ -37171,7 +37171,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "May CY2026",
     "created": "2026-04-28T22:45:03",
-    "modified": "2026-05-19T22:45:25",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=559801"
   },
@@ -40674,10 +40674,10 @@
       "General Availability",
       "Preview"
     ],
-    "previewDate": "July CY2026",
-    "generalAvailabilityDate": "August CY2026",
+    "previewDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-05-12T23:00:33",
-    "modified": "2026-06-22T23:00:47",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=562016"
   },
@@ -41213,7 +41213,7 @@
     "id": 562534,
     "title": "Microsoft Teams: Front-of-room view control for Town Hall in Teams Rooms on Android",
     "description": "When a Teams Rooms on Android is invited as a meeting presenter, the front-of-room display defaults to the attendee view. Presenters always have full control from the console, including green room and off-stage management, and can switch the front-of-room display to presenter view without impacting attendees. Available in Teams Rooms Pro.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Teams"
     ],
@@ -41231,7 +41231,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-06-30T22:57:58",
-    "modified": "2026-07-06T23:00:50",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=562534"
   },
@@ -42657,9 +42657,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "November CY2026",
     "created": "2026-06-09T20:46:16",
-    "modified": "2026-06-22T23:00:47",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565374"
   },
@@ -45024,7 +45024,7 @@
     "id": 567458,
     "title": "Microsoft Teams: Multilingual recap available with translation button",
     "description": "After meeting recap is automatically generated in the translation language chosen during the meeting, users can continue to change the language of the meeting recap after its generated.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Copilot (Microsoft 365)",
       "Microsoft Teams"
@@ -45046,7 +45046,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-07-14T22:41:38",
-    "modified": "2026-07-15T22:55:27",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567458"
   },
@@ -45082,7 +45082,7 @@
     "id": 567462,
     "title": "Microsoft Teams: Enhanced live captions settings and right-side panel view",
     "description": "We are improving the live captions experience in Microsoft Teams with new viewing layouts and streamlined configuration options. Users can now view live captions in a new right-side panel, in addition to the existing options of viewing them at the top or bottom of the screen, or popping them out into a separate window. We are also making it easier to manage caption settings directly within the meeting. By clicking the existing gear icon in the live captions pane, users will see a consolidated menu to quickly configure spoken language, caption styles, and profanity filters without navigating to separate settings panels. Additionally, this menu includes a new toggle to turn on live captions by default for all meetings, as well as a new thumbs-up/thumbs-down feedback mechanism to easily share input on the captioning experience.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Teams"
     ],
@@ -45103,7 +45103,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-07-14T22:41:38",
-    "modified": "2026-07-15T22:55:27",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567462"
   },
@@ -46595,14 +46595,21 @@
     "cloudInstances": [
       "Worldwide (Standard Multi-Tenant)"
     ],
-    "platforms": [],
+    "platforms": [
+      "Android",
+      "Desktop",
+      "Mac",
+      "Web",
+      "iOS"
+    ],
     "releasePhases": [
-      "General Availability"
+      "General Availability",
+      "Targeted Release"
     ],
     "previewDate": null,
     "generalAvailabilityDate": "September CY2026",
     "created": "2026-08-11T22:53:53",
-    "modified": "2026-08-11T22:53:53",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568932"
   },
@@ -46749,6 +46756,7 @@
       "Microsoft Teams"
     ],
     "cloudInstances": [
+      "GCC",
       "Worldwide (Standard Multi-Tenant)"
     ],
     "platforms": [
@@ -46760,7 +46768,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "September CY2026",
     "created": "2026-08-11T22:53:53",
-    "modified": "2026-08-11T22:53:53",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569019"
   },
@@ -46942,12 +46950,13 @@
       "Mac"
     ],
     "releasePhases": [
-      "General Availability"
+      "General Availability",
+      "Targeted Release"
     ],
     "previewDate": null,
     "generalAvailabilityDate": "September CY2026",
     "created": "2026-08-11T22:53:53",
-    "modified": "2026-08-11T22:53:53",
+    "modified": "2026-08-12T22:47:48",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569209"
   },
@@ -47032,5 +47041,29 @@
     "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569213"
+  },
+  {
+    "id": 569217,
+    "title": "Microsoft Edge: Vertical Tabs update",
+    "description": "Microsoft Edge is updating its vertical tab implementation and architecture. Edge is reimplementing capabilities across pane, layout, controls, tab behavior, visual treatments, & embedder customizations. No admin action is required.",
+    "status": "In development",
+    "products": [
+      "Microsoft Edge"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "December CY2026",
+    "created": "2026-08-12T22:47:48",
+    "modified": "2026-08-12T22:47:48",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569217"
   }
 ]
