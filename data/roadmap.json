@@ -16421,8 +16421,8 @@
   {
     "id": 499658,
     "title": "Excel: =COPILOT Function",
-    "description": "Use the new =COPILOT function directly in Excel formulas to generate, classify, and summarize text and data",
-    "status": "In development",
+    "description": "Use the new =COPILOT function directly in Excel formulas to generate, classify, and summarize text and data. We have decided not to move forward with this feature. We apologize for the inconvenience.",
+    "status": "Cancelled",
     "products": [
       "Excel",
       "Microsoft Copilot (Microsoft 365)"
@@ -16437,17 +16437,17 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "December CY2026",
+    "generalAvailabilityDate": "January CY2027",
     "created": "2025-10-24T22:00:49",
-    "modified": "2026-02-27T23:15:13",
+    "modified": "2026-08-13T22:42:07",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499658"
   },
   {
     "id": 499659,
     "title": "Excel: =COPILOT Function",
-    "description": "Use the new =COPILOT function directly in Excel formulas to generate, classify, and summarize text and data.",
-    "status": "In development",
+    "description": "Use the new =COPILOT function directly in Excel formulas to generate, classify, and summarize text and data. We have decided not to move forward with this feature. We apologize for the inconvenience.",
+    "status": "Cancelled",
     "products": [
       "Excel",
       "Microsoft Copilot (Microsoft 365)"
@@ -16462,17 +16462,17 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "December CY2026",
+    "generalAvailabilityDate": "January CY2027",
     "created": "2025-12-17T00:15:13",
-    "modified": "2026-02-27T23:15:13",
+    "modified": "2026-08-13T22:42:07",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499659"
   },
   {
     "id": 499660,
     "title": "Excel: =COPILOT Function",
-    "description": "Use the new =COPILOT function directly in Excel formulas to generate, classify, and summarize text and data.",
-    "status": "In development",
+    "description": "Use the new =COPILOT function directly in Excel formulas to generate, classify, and summarize text and data. We have decided not to move forward with this feature. We apologize for the inconvenience.",
+    "status": "Cancelled",
     "products": [
       "Excel",
       "Microsoft Copilot (Microsoft 365)"
@@ -16487,9 +16487,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "December CY2026",
+    "generalAvailabilityDate": "January CY2027",
     "created": "2025-10-01T23:01:01",
-    "modified": "2026-02-27T23:15:13",
+    "modified": "2026-08-13T22:42:07",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499660"
   },
@@ -29236,7 +29236,7 @@
     "id": 547732,
     "title": "SharePoint: New SharePoint Experience",
     "description": "We are introducing a reimagined SharePoint experience designed to be simple and intuitive, centered on the core jobs of discovering knowledge, publishing content, and building solutions. This update establishes the foundation for AI-assisted creation across the product. This includes an updated information architecture and cohesive design language, delivering a clean and consistent experience across surfaces.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "SharePoint"
     ],
@@ -29260,7 +29260,7 @@
     "previewDate": "March CY2026",
     "generalAvailabilityDate": "May CY2026",
     "created": "2026-02-20T23:15:06",
-    "modified": "2026-05-06T23:15:10",
+    "modified": "2026-08-13T22:42:07",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=547732"
   },
@@ -40499,7 +40499,7 @@
     "id": 561916,
     "title": "Microsoft Purview: Data Loss Prevention - Granular classification error controls (Exchange online)",
     "description": "Granular Protections for Exchange Online is available in public preview. This release gives administrators fine-grained control to create DLP policies based on specific classification or text extraction failure types — such as timeout, throttling and other scan errors — rather than one blanket policy for all failure conditions.",
-    "status": "In development",
+    "status": "Launched",
     "products": [
       "Microsoft Purview"
     ],
@@ -40516,7 +40516,7 @@
     "previewDate": "July CY2026",
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-05-11T23:15:11",
-    "modified": "2026-07-13T23:07:14",
+    "modified": "2026-08-13T22:42:07",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=561916"
   },
@@ -42916,9 +42916,9 @@
       "Targeted Release"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-06-15T23:00:45",
-    "modified": "2026-07-10T21:58:35",
+    "modified": "2026-08-13T22:42:07",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565869"
   },
@@ -45152,9 +45152,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-07-14T22:41:38",
-    "modified": "2026-07-24T22:00:08",
+    "modified": "2026-08-13T22:42:07",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567466"
   },
@@ -45251,7 +45251,7 @@
     "id": 567470,
     "title": "OneDrive: Exclude specific folders from syncing",
     "description": "OneDrive for Windows and Mac will let users exclude specific folders from syncing, so folders that do not belong in the cloud, such as developer tooling folders like PowerShell modules, Visual Studio configuration, and node modules, stay local on the device instead of uploading to OneDrive. Administrators can define folder exclusion rules for their organization.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "OneDrive"
     ],
@@ -45268,7 +45268,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-07-09T23:00:39",
-    "modified": "2026-07-16T23:08:19",
+    "modified": "2026-08-13T22:42:07",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567470"
   },
@@ -46907,6 +46907,28 @@
     "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569203"
+  },
+  {
+    "id": 569206,
+    "title": "Microsoft Teams: Calls popout into a new window on the browser to support multi-tasking and collaboration during a meeting!",
+    "description": "Microsoft Teams browser app users will now be able to have their a simplified call window persist on top of other content when they navigate or hide the tab or PWA hosting the call!",
+    "status": "In development",
+    "products": [
+      "Microsoft Teams"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-13T22:42:07",
+    "modified": "2026-08-13T22:42:07",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569206"
   },
   {
     "id": 569208,
