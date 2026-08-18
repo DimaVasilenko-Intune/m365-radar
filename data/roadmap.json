@@ -203,9 +203,9 @@
       "Preview"
     ],
     "previewDate": "December CY2023",
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "January CY2027",
     "created": "2022-06-02T23:05:12",
-    "modified": "2026-08-11T22:53:53",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=93268"
   },
@@ -229,9 +229,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "February CY2027",
     "created": "2022-06-02T23:05:14",
-    "modified": "2025-12-03T00:15:38",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=93269"
   },
@@ -1049,32 +1049,6 @@
     "modified": "2025-05-27T23:15:03",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=357562"
-  },
-  {
-    "id": 361914,
-    "title": "Exchange: Adding support for Inbound SMTP DANE with DNSSEC for Exchange Online GCC-H and DoD",
-    "description": "We are adding inbound support for SMTP DANE with DNSSEC to Exchange Online GCC-H and DoD. Look for another roadmap item for inbound support in WW and GCC, and one for outbound support of SMTP DANE with DNSSEC. This item is no longer accurate and is being removed from the roadmap. We apologize for the inconvenience.",
-    "status": "Cancelled",
-    "products": [
-      "Exchange"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC High"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Preview"
-    ],
-    "previewDate": "October CY2025",
-    "generalAvailabilityDate": "December CY2025",
-    "created": "2024-04-01T23:15:47",
-    "modified": "2026-08-14T21:56:10",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=361914"
   },
   {
     "id": 365059,
@@ -1998,7 +1972,7 @@
     "id": 394279,
     "title": "Microsoft Purview compliance portal: Data Loss Prevention - Decoupling of Policy tips and Email notifications while configuring rules on Data Loss Prevention for Sharepoint and Onedrive",
     "description": "As of today, whenever the user wants to enable email notifications the policy tips also need to be enabled and vice versa, but with this decoupling the admin can configure the following: 1) None of policy tips or email notification 2) Only policy tips 3) Only Email Notifications 4) Both Email Notifications and Policy tips",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Purview"
     ],
@@ -2015,7 +1989,7 @@
     "previewDate": "February CY2026",
     "generalAvailabilityDate": "July CY2026",
     "created": "2024-04-22T23:15:43",
-    "modified": "2026-07-28T22:43:45",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=394279"
   },
@@ -4805,31 +4779,6 @@
     "modified": "2025-11-08T00:00:04",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=470600"
-  },
-  {
-    "id": 470602,
-    "title": "Outlook: Account descriptions",
-    "description": "New Outlook users can now set custom descriptions for their accounts, making them easier to tell apart in the folder list and various lists and menus across the application. The description can be set in the account settings. #newoutlookforwindows",
-    "status": "Launched",
-    "products": [
-      "Outlook"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Targeted Release"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "February CY2025",
-    "created": "2024-12-02T18:00:37",
-    "modified": "2025-10-16T23:15:52",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=470602"
   },
   {
     "id": 470986,
@@ -9828,31 +9777,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=489227"
   },
   {
-    "id": 489228,
-    "title": "Microsoft Purview Compliance Portal: Changes to case creation process in Purview portal when confirming alerts from Defender XDR portal and content retention periods in cases",
-    "description": "With this release, alerts confirmed from the Defender XDR portal (security.microsoft.com) will not result in automatic case creation in the Purview portal. To create a case, Insider Risk Management analysts or investigators must manually click on the \"Confirm all alerts & create case\" button in the Purview portal from the alert that was previously confirmed through Defender XDR. When a case is created for a specific user based on the generated alert, related content such as online files and emails, is made available in the Content explorer tab. Additionally, any new content that generates or adds to an alert is included in the Content explorer for review during up to the 30 days from the creation of the Case. After these 30 days, new content identified for the user based on alerts will NOT be added to the Content explorer. To access new content, the existing case must be closed and a new Case created.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Purview"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Preview"
-    ],
-    "previewDate": "April CY2025",
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2025-04-14T23:15:33",
-    "modified": "2025-10-16T23:15:52",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=489228"
-  },
-  {
     "id": 489229,
     "title": "Microsoft Viva: Viva Glint and Viva Insights Integration - Workplace Patterns Report in Viva Glint",
     "description": "An intuitive report that highlights the relationships between employee sentiment items and the workplace patterns and drivers that shape engagement. This feature eliminates the need for custom analysis, enabling users to share out of the box actionable insights with leaders—accelerating decision-making to drive meaningful actions across the organization",
@@ -10502,8 +10426,8 @@
   {
     "id": 490564,
     "title": "Microsoft Teams: Interactive Agents for Teams Meetings and Calls",
-    "description": "After further review, we are not able to continue rolling this out at this time. We apologize for any inconvenience. Introducing a new feature that brings interactive agents into your Teams meetings and 1-on-1 calls. Engage with agents as a group or privately, with zero state prompts and history support for seamless interactions. Currently, only agents built on Copilot support sessions, meaning they can remember the context of previous interactions within the same session for more relevant responses. Custom agents do not yet have session support. All agents from BizChat/Copilot Studio are now available for use in your meetings and calls. This feature allows secure testing and iteration, inviting colleagues for feedback without affecting sensitive data or production channels.",
-    "status": "In development",
+    "description": "After further review, we are not able to continue rolling this out at this time. We apologize for any inconvenience. Introducing a new feature that brings interactive agents into your Teams meetings and 1-on-1 calls. Engage with agents as a group or privately, with zero state prompts and history support for seamless interactions. Currently, only agents built on Copilot support sessions, meaning they can remember the context of previous interactions within the same session for more relevant responses. Custom agents do not yet have session support. All agents from BizChat/Copilot Studio are now available for use in your meetings and calls. This feature allows secure testing and iteration, inviting colleagues for feedback without affecting sensitive data or production channels. Updated August 17, 2026: We have decided not to move forward with this change at this time. We apologize for any inconvenience.",
+    "status": "Cancelled",
     "products": [
       "Microsoft Teams"
     ],
@@ -10520,7 +10444,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "September CY2026",
     "created": "2025-05-06T23:15:04",
-    "modified": "2025-10-13T23:00:30",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=490564"
   },
@@ -12287,32 +12211,6 @@
     "modified": "2025-10-24T22:00:49",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=494833"
-  },
-  {
-    "id": 494834,
-    "title": "Microsoft Copilot (Microsoft 365): New file extension for Copilot pages",
-    "description": "We are introducing a new file extension for Copilot pages, \".page\". This new file extension will continue to support admin toggles, sensitivity labels, data loss prevention, multi-geo, Purview eDiscovery, version history, export, audit logs, and data subject requests. The functionality and support for the .page file extension will be identical to the existing .loop file extension, with the only difference being the file extension and the associated file icon. For a comprehensive list of features supported refer to: Summary table of admin management, governance, lifecycle, and compliance capabilities based on experience",
-    "status": "Launched",
-    "products": [
-      "Microsoft 365 app",
-      "Microsoft Copilot (Microsoft 365)"
-    ],
-    "cloudInstances": [
-      "GCC",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "August CY2025",
-    "created": "2025-05-28T23:00:19",
-    "modified": "2025-10-17T19:45:56",
-    "moreInfoLink": "https://learn.microsoft.com/en-us/microsoft-365/loop/loop-compliance-summary?view=o365-worldwide#summary-table-of-admin-management-governance-lifecycle-and-compliance-capabilities-based-on-experience",
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=494834"
   },
   {
     "id": 494835,
@@ -16419,81 +16317,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499657"
   },
   {
-    "id": 499658,
-    "title": "Excel: =COPILOT Function",
-    "description": "Use the new =COPILOT function directly in Excel formulas to generate, classify, and summarize text and data. We have decided not to move forward with this feature. We apologize for the inconvenience.",
-    "status": "Cancelled",
-    "products": [
-      "Excel",
-      "Microsoft Copilot (Microsoft 365)"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "January CY2027",
-    "created": "2025-10-24T22:00:49",
-    "modified": "2026-08-13T22:42:07",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499658"
-  },
-  {
-    "id": 499659,
-    "title": "Excel: =COPILOT Function",
-    "description": "Use the new =COPILOT function directly in Excel formulas to generate, classify, and summarize text and data. We have decided not to move forward with this feature. We apologize for the inconvenience.",
-    "status": "Cancelled",
-    "products": [
-      "Excel",
-      "Microsoft Copilot (Microsoft 365)"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Mac"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "January CY2027",
-    "created": "2025-12-17T00:15:13",
-    "modified": "2026-08-13T22:42:07",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499659"
-  },
-  {
-    "id": 499660,
-    "title": "Excel: =COPILOT Function",
-    "description": "Use the new =COPILOT function directly in Excel formulas to generate, classify, and summarize text and data. We have decided not to move forward with this feature. We apologize for the inconvenience.",
-    "status": "Cancelled",
-    "products": [
-      "Excel",
-      "Microsoft Copilot (Microsoft 365)"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "January CY2027",
-    "created": "2025-10-01T23:01:01",
-    "modified": "2026-08-13T22:42:07",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499660"
-  },
-  {
     "id": 499661,
     "title": "Microsoft Viva: Viva Glint - Export Executive Summary report in Viva Glint to editable PowerPoint slides",
     "description": "Managers will be able to export the default sections from the Executive Summary report in Viva Glint directly to editable PowerPoint slides. This enhancement allows for easier and quicker consumption of this report outside Viva Glint, compared to the previous export method which included static screenshots.",
@@ -16752,34 +16575,6 @@
     "modified": "2025-12-02T00:16:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499899"
-  },
-  {
-    "id": 499900,
-    "title": "Outlook: Send Button update",
-    "description": "This feature reduces accidental message sends by moving the send button from the bottom of the compose view, in the compose toolbar to the header of the compose view. By moving the send button to a less crowded location, users can avoid accidental taps, resulting in a more intentional and error-free messaging experience.",
-    "status": "Launched",
-    "products": [
-      "Outlook"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Android",
-      "iOS"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-08-04T23:15:38",
-    "modified": "2025-10-16T23:15:52",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499900"
   },
   {
     "id": 499901,
@@ -18640,32 +18435,6 @@
     "modified": "2025-12-09T00:00:24",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=501560"
-  },
-  {
-    "id": 501570,
-    "title": "Microsoft Copilot (Microsoft 365): Replace stock video footage with AI-Generated Images in Microsoft 365 Copilot",
-    "description": "Easily swap stock visuals for AI-generated images in your videos using the Create experience in Microsoft 365 Copilot. Powered by OpenAI’s latest image generation model, this feature helps you tailor content, explain concepts more clearly, and help make your videos stand out. Updated August 10, 2026: We have decided not to move forward with this change at this time. We apologize for any inconvenience.",
-    "status": "Cancelled",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop",
-      "Mac",
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "November CY2025",
-    "created": "2025-09-22T23:00:43",
-    "modified": "2026-08-10T22:43:02",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=501570"
   },
   {
     "id": 501574,
@@ -32795,7 +32564,7 @@
     "id": 557190,
     "title": "Microsoft Purview: Data Loss Prevention – File Quarantine Action in DLP for SharePoint/OneDrive",
     "description": "File Quarantine action in Microsoft Purview DLP for SharePoint and OneDrive, enables stronger, immediate protection for sensitive data. When a DLP policy is triggered, the File Quarantine action automatically moves the file to a restricted, admin‑controlled & defined quarantine location—instantly removing access for all users while preserving the file for review and investigation. This capability helps organizations contain data‑exposure risks, prevents further sharing or misuse, and delivers a powerful new layer of enforcement.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Purview"
     ],
@@ -32812,7 +32581,7 @@
     "previewDate": "March CY2026",
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-03-12T23:00:54",
-    "modified": "2026-07-21T22:37:32",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=557190"
   },
@@ -33496,9 +33265,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "August CY2026",
+    "generalAvailabilityDate": "September CY2026",
     "created": "2026-03-04T00:00:25",
-    "modified": "2026-08-03T22:55:03",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=557563"
   },
@@ -33807,9 +33576,9 @@
       "Preview"
     ],
     "previewDate": "April CY2026",
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "December CY2026",
     "created": "2026-02-25T00:15:23",
-    "modified": "2026-06-16T23:00:10",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=557684"
   },
@@ -35585,9 +35354,9 @@
       "Preview"
     ],
     "previewDate": "April CY2026",
-    "generalAvailabilityDate": "August CY2026",
+    "generalAvailabilityDate": "August CY2027",
     "created": "2026-03-17T22:45:46",
-    "modified": "2026-03-18T23:15:26",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=558860"
   },
@@ -39485,7 +39254,7 @@
     "id": 561321,
     "title": "Microsoft Teams: SharePoint thumbnail previews",
     "description": "Microsoft Teams on desktop now shows rich link previews when you share SharePoint pages. Links automatically expand into a visually appealing card with a thumbnail image and page description, making it easier to understand and engage with shared SharePoint content directly in Teams.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Teams"
     ],
@@ -39504,7 +39273,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "June CY2026",
     "created": "2026-05-05T23:00:02",
-    "modified": "2026-06-05T22:00:28",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=561321"
   },
@@ -41161,7 +40930,7 @@
     "id": 562662,
     "title": "Microsoft 365 app: New Copilot Notebooks design in the Microsoft 365 Copilot App",
     "description": "The new Copilot Notebooks design in the Microsoft 365 Copilot app now lets users organize related chats, output creations, and references into a persistent AI workspace. Copilot uses the Notebook's accumulated context to ground responses, so work continues across sessions instead of starting over each time. While this is the quicker, light-weight Notebooks experience, you can still find the fuller, workspace-forward experience in OneNote.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft 365 app"
     ],
@@ -41179,7 +40948,7 @@
     "previewDate": "July CY2026",
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-05-27T23:15:50",
-    "modified": "2026-08-06T22:57:59",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=562662"
   },
@@ -41905,7 +41674,7 @@
     "id": 564805,
     "title": "Microsoft 365 admin center: Organizational Data – Granular access policy controls for custom attributes",
     "description": "We are introducing enhanced access policy management for Organizational Data in Microsoft 365. This update enables admins to release custom attributes to specific users or groups, rather than broadly to all employees or all managers. This provides a more conservative default approach for managing sensitive organizational data, while also supporting staged rollout of new attributes. Additionally, admins can configure whether leaders and managers are permitted to share non-public data with Workforce Insights delegates. This enhancement improves governance, flexibility, and control over organizational data access.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft 365 admin center"
     ],
@@ -41922,7 +41691,7 @@
     "previewDate": "June CY2026",
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-06-01T23:15:29",
-    "modified": "2026-07-21T22:37:32",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=564805"
   },
@@ -42476,9 +42245,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "October CY2026",
+    "generalAvailabilityDate": "January CY2027",
     "created": "2026-06-15T23:00:45",
-    "modified": "2026-06-18T23:00:06",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565373"
   },
@@ -43030,7 +42799,7 @@
     "id": 566315,
     "title": "OneDrive: Refreshed Libraries View in OneDrive Web",
     "description": "We're replacing the existing More places experience in OneDrive Web with a refreshed Libraries view. Users can see more recently accessed libraries, navigate to default document libraries for Teams and favorite SharePoint sites, and use new filtering, sorting, and view options.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "OneDrive"
     ],
@@ -43047,7 +42816,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-06-18T23:00:06",
-    "modified": "2026-06-18T23:00:06",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=566315"
   },
@@ -44525,7 +44294,7 @@
     "id": 567305,
     "title": "Microsoft Teams: Specify who has control of production tools in Teams meetings and events",
     "description": "A new meeting option for Teams meetings with presenters and events that enables organizers to designate 'Who has control of production tools' during the event. Users defined here will have access to the controls in 'Manage What Attendees See' and the ‘Green Room'.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Teams"
     ],
@@ -44547,7 +44316,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-07-08T23:10:57",
-    "modified": "2026-07-10T21:58:35",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567305"
   },
@@ -46726,6 +46495,31 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569203"
   },
   {
+    "id": 569205,
+    "title": "Microsoft Teams: Temporarily pause all notifications",
+    "description": "Users are now able to temporarily pause all notifications.",
+    "status": "In development",
+    "products": [
+      "Microsoft Teams"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Desktop",
+      "Mac"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-17T22:52:47",
+    "modified": "2026-08-17T22:52:47",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569205"
+  },
+  {
     "id": 569206,
     "title": "Microsoft Teams: Pop out calls into a new browser window",
     "description": "Microsoft Teams browser app users will be able to pop out calls into a simplified call window that stays available while they navigate away from, hide, or minimize the tab or progressive web app (PWA) hosting the call. This helps users multitask and collaborate more easily during calls.",
@@ -46885,6 +46679,32 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569213"
   },
   {
+    "id": 569215,
+    "title": "OneDrive: Improved capabilities for files with Copilot in OneDrive Web",
+    "description": "With improved Copilot file skills in OneDrive, you can go from files to finished work directly from chat. Copilot helps you find the right content, analyze files and data, create polished outputs like summaries, dashboards, and presentations, and collaborate by saving or sharing the results from OneDrive.",
+    "status": "In development",
+    "products": [
+      "Microsoft Copilot (Microsoft 365)",
+      "OneDrive"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability",
+      "Preview"
+    ],
+    "previewDate": "August CY2026",
+    "generalAvailabilityDate": "December CY2026",
+    "created": "2026-08-17T22:52:47",
+    "modified": "2026-08-17T22:52:47",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569215"
+  },
+  {
     "id": 569217,
     "title": "Microsoft Edge: Vertical Tabs update",
     "description": "Microsoft Edge is updating its vertical tab implementation and architecture. Edge is reimplementing capabilities across pane, layout, controls, tab behavior, visual treatments, & embedder customizations. No admin action is required.",
@@ -46909,6 +46729,55 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569217"
   },
   {
+    "id": 569363,
+    "title": "Microsoft Purview: Permissions audit log improvements",
+    "description": "Improving permission checks when users access the Microsoft Purview portal. Enhanced audit logs will provide clearer visibility into role and scoped-role access decisions, helping administrators troubleshoot access issues and monitor authorization outcomes.",
+    "status": "In development",
+    "products": [
+      "Microsoft Purview"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-17T22:52:47",
+    "modified": "2026-08-17T22:52:47",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569363"
+  },
+  {
+    "id": 569364,
+    "title": "Microsoft Purview: eDiscovery- Select user-owned SharePoint embedded container as a data source",
+    "description": "eDiscovery users will be able to view and select SharePoint Embedded content containers owned or created by a selected person. These containers store content from apps such as Microsoft Loop, Copilot Pages, and Copilot Notebooks.",
+    "status": "In development",
+    "products": [
+      "Microsoft Purview"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability",
+      "Preview"
+    ],
+    "previewDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-17T22:52:47",
+    "modified": "2026-08-17T22:52:47",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569364"
+  },
+  {
     "id": 569421,
     "title": "Microsoft Teams: Malicious URL Protection for Teams Chat and Channels for Gov clouds",
     "description": "Microsoft Teams can now detect and warn users on malicious URLs sent in Teams chat and channels in Gov clouds, increasing protection against malware attacks for Gov clouds customers.",
@@ -46919,12 +46788,12 @@
     "cloudInstances": [
       "DoD",
       "GCC",
-      "GCC High",
-      "Worldwide (Standard Multi-Tenant)"
+      "GCC High"
     ],
     "platforms": [
       "Android",
       "Desktop",
+      "Mac",
       "iOS"
     ],
     "releasePhases": [
@@ -46933,9 +46802,61 @@
     "previewDate": null,
     "generalAvailabilityDate": "October CY2026",
     "created": "2026-08-14T21:56:10",
-    "modified": "2026-08-14T21:56:10",
+    "modified": "2026-08-17T22:52:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569421"
+  },
+  {
+    "id": 569426,
+    "title": "Planner: Private tasks now stored in your private plan",
+    "description": "Private tasks created in Planner and Planner-powered experiences are stored in the user’s private plan, providing a single place for tasks visible only to that user. Private tasks cannot be shared or assigned to others, and existing tasks continue to work and appear alongside them.",
+    "status": "In development",
+    "products": [
+      "Planner"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-17T22:52:47",
+    "modified": "2026-08-17T22:52:47",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569426"
+  },
+  {
+    "id": 569431,
+    "title": "Outlook: Change the organizer of a meeting",
+    "description": "Transfer ownership of a meeting or recurring meeting series to another person in your organization. The new organizer must accept the transfer before it is completed. This helps maintain continuity for long-running meetings while preserving the existing event for attendees. Available in Outlook for Windows and web and Teams calendar.",
+    "status": "In development",
+    "products": [
+      "Microsoft 365",
+      "Outlook"
+    ],
+    "cloudInstances": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-17T22:52:47",
+    "modified": "2026-08-17T22:52:47",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569431"
   },
   {
     "id": 569433,
