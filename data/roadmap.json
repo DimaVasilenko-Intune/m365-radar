@@ -4928,10 +4928,10 @@
       "General Availability",
       "Preview"
     ],
-    "previewDate": "June CY2026",
-    "generalAvailabilityDate": "July CY2026",
+    "previewDate": "October CY2026",
+    "generalAvailabilityDate": "December CY2026",
     "created": "2024-12-11T00:15:40",
-    "modified": "2026-06-10T23:00:02",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=472030"
   },
@@ -5762,35 +5762,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=478610"
   },
   {
-    "id": 478611,
-    "title": "Microsoft Teams: Facilitator Agent",
-    "description": "The Facilitator agent works alongside you and your team to help you manage your meetings effortlessly. Throughout the meeting, Facilitator takes notes that everyone can co-author, manages the time and agenda, and can quickly surface relevant information from the web or the conversation itself. Users can now use the Facilitator agent in Teams Rooms on Windows for real-time notes and action items during both scheduled hybrid and impromptu in-person meetings using AI. In hybrid meetings, the agent appears in the notes panel. For in-person meetings, a participant can scan the QR code on the display in the room to invoke the agent as the group's assistant.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)",
-      "Microsoft Teams"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Android",
-      "Desktop",
-      "Mac",
-      "Web",
-      "iOS"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-01-30T00:15:44",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=478611"
-  },
-  {
     "id": 478645,
     "title": "Microsoft Copilot (Microsoft 365): Support for summarization of very long documents",
     "description": "Copilot in Word can summarize documents up to about 1,500,000 words or 3,000 pages. This summary will be available on top of the document.",
@@ -6033,36 +6004,6 @@
     "modified": "2026-07-28T22:43:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=479965"
-  },
-  {
-    "id": 480716,
-    "title": "Microsoft Teams: Send messages to attendees in the meeting lobby with lobby chat",
-    "description": "Now meeting organizers can send one-way messages to attendees in the lobby via the lobby chat. The Lobby chat is intended to optimize the lobby experience for all participants, ensuring that organizers are better equipped to run external meetings, have more control over meetings with external participants, and external attendees are well informed about the meeting upon meeting start.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Teams"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop",
-      "Mac",
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Targeted Release"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "June CY2025",
-    "created": "2025-03-04T23:15:18",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=480716"
   },
   {
     "id": 480720,
@@ -6710,7 +6651,7 @@
     "id": 481834,
     "title": "Microsoft 365: Long-term retention period for M365 Backup",
     "description": "This creates the ability to set longer term retention periods to restore beyond one year.",
-    "status": "In development",
+    "status": "Launched",
     "products": [
       "Microsoft 365"
     ],
@@ -6727,7 +6668,7 @@
     "previewDate": "March CY2026",
     "generalAvailabilityDate": "August CY2026",
     "created": "2025-02-19T00:00:11",
-    "modified": "2025-02-19T00:00:11",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=481834"
   },
@@ -7095,32 +7036,6 @@
     "modified": "2025-10-16T23:15:52",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=483489"
-  },
-  {
-    "id": 483506,
-    "title": "Microsoft Teams: App ratings in in-context surfaces.",
-    "description": "Now users will be able to view ratings when they view apps within the in-context store in teams.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Teams"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop",
-      "Mac"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Targeted Release"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2025-03-07T23:15:12",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=483506"
   },
   {
     "id": 483519,
@@ -8453,36 +8368,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485798"
   },
   {
-    "id": 485812,
-    "title": "Microsoft Teams: Add a presenter from the participant roster in a town hall or webinar",
-    "description": "Organizers and presenters can quickly add a missing presenter to an ongoing town hall or webinar by calling them directly from the participant roster. Once the missing presenter accepts the call, they instantly join as a presenter, automatically joining the Green Room (if enabled) and added to the event group chat.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Teams"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop",
-      "Mac",
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Targeted Release"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "May CY2025",
-    "created": "2025-03-21T22:45:39",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485812"
-  },
-  {
     "id": 486368,
     "title": "Microsoft Purview compliance portal: New Inline Protection controls for AI apps in Edge for Business",
     "description": "With the new inline protection capability for Edge for Business, you can prevent data leakage across the various ways that users interact with sensitive data in the browser, including typing of text directly into a web application or generative AI prompt. Starting with some of the top consumer GenAI apps (ChatGPT, Google Gemini, and DeepSeek), admins will be able to block typed prompts containing sensitive data. The inline protection capability complements existing endpoint DLP controls for uploading or pasting sensitive content in the browser.",
@@ -9725,34 +9610,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=489220"
   },
   {
-    "id": 489225,
-    "title": "SharePoint: Header & Footer Enhancements",
-    "description": "The site header and footer are key elements of the SharePoint user interface, playing a vital role in navigation, brand expression, and overall user experience. To better align with today’s design standards and customer expectations, we’re introducing a full visual upgrade of the SharePoint site header and footer. This upgrade delivers a more cohesive and contemporary look while offering new preset layouts and enhanced customization options. Organizations will be able to tailor these elements to better reflect their brand identity, improve usability, and create a more engaging, connected experience for employees.",
-    "status": "Launched",
-    "products": [
-      "SharePoint"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Targeted Release"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "August CY2025",
-    "created": "2025-04-21T23:00:33",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=489225"
-  },
-  {
     "id": 489227,
     "title": "Access: Enable zoom magnification to Microsoft Access for Forms, Tables, Queries",
     "description": "Access will add magnification slider (10% to 500%) in lower right of the application, similar to the feature in Word, PowerPoint, and Excel. It will also be keyboard accessible and available on the ribbon in Access forms, tables, and queries.",
@@ -10139,33 +9996,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=490048"
   },
   {
-    "id": 490050,
-    "title": "Microsoft Teams: Teams Town hall screen management privileges in Teams Rooms on Windows",
-    "description": "When the Teams Room on Windows is a co-organizer or a presenter in a town hall, privileges can be granted to start or end the event, manage what attendees see, and promote attendees as presenters, ensuring a smoother and more organized event experience. This feature is available with Teams Rooms Pro.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Teams"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Teams and Surface Devices"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "June CY2025",
-    "created": "2025-05-08T23:00:31",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=490050"
-  },
-  {
     "id": 490051,
     "title": "Microsoft Teams: Copilot in Teams can generate an audio overview of your meetings",
     "description": "Copilot can generate an audio overview of your transcribed meetings, transforming one or multiple meetings into an engaging listening experience. Users can choose how they want to listen: select one or two speakers, adjust the tone from concise to playful, and tailor the length. This capability is only available in English currently.",
@@ -10248,31 +10078,6 @@
     "modified": "2026-01-14T00:00:47",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=490055"
-  },
-  {
-    "id": 490056,
-    "title": "Microsoft Teams: New Voice Applications Settings for Authorized Users in GCC High and DoD (Premium)",
-    "description": "Voice applications policies allow you to create and assign voice application policies to authorized users. Voice application policies control what configuration changes an authorized user can make to the auto attendants and call queues they're authorized for. Authorized users, with permissions from Teams admins, can configure their call queues and auto attendants using Teams settings and opt in or out their team members to optimize for business needs. This is a Teams Premium feature.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Teams"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC High"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-04-17T23:15:05",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=490056"
   },
   {
     "id": 490059,
@@ -12707,30 +12512,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=495468"
   },
   {
-    "id": 495469,
-    "title": "Outlook: Report junk + block or unsubscribe in one same action",
-    "description": "We’re making it easier to keep your inbox clean and under control. Now, when you report an email as junk, you’ll also have the option to unsubscribe—if that’s available. This helps stop unwanted messages at the source and keeps your blocked list from getting overloaded. If unsubscribing isn’t possible, you’ll still be able to block the sender to prevent future emails. This update gives you more control and a simpler way to manage unwanted messages.",
-    "status": "Launched",
-    "products": [
-      "Outlook"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Android"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2025-05-28T23:00:19",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=495469"
-  },
-  {
     "id": 495547,
     "title": "Microsoft Purview compliance portal: OCR - Restrict OCR Scan to mails sent outside the organization",
     "description": "The feature will allow you to do OCR for only those mails which are being sent outside the organization. Hence, by using this config, you will not be billed for any internal communications or any incoming mails coming from outside the org.",
@@ -13652,32 +13433,6 @@
     "modified": "2026-03-04T00:15:19",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=496988"
-  },
-  {
-    "id": 497111,
-    "title": "Microsoft Copilot (Microsoft 365): Copilot Dashboard: Team Views",
-    "description": "Scoped access enables managers to view Copilot insights specific to their own organizations both on the Copilot Dashboard and in additional Copilot reports on the Reports page. This allows leaders at different levels to monitor adoption and impact within their teams, while respecting organizational boundaries and privacy. Admins can configure access criteria and set minimum thresholds.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)",
-      "Microsoft Viva"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop",
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "October CY2025",
-    "created": "2025-06-19T23:00:45",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=497111"
   },
   {
     "id": 497131,
@@ -14712,30 +14467,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=498229"
   },
   {
-    "id": 498231,
-    "title": "Outlook: External tag in profile cards",
-    "description": "For users that are external to your organization, an \"External\" tag will be shown in the top part of their profile card.",
-    "status": "Launched",
-    "products": [
-      "Outlook"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-07-15T23:00:46",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=498231"
-  },
-  {
     "id": 498232,
     "title": "SharePoint: Signed Adobe & Docusign documents saved to the originating folder",
     "description": "Documents signed via Adobe or DocuSign eSignature, when initiated through the SharePoint eSignature platform, will now be saved in the originating SharePoint folder instead of the default Apps folder. The originating folder is the folder where the starting document was located at the point of eSignature request initiation.",
@@ -14946,34 +14677,6 @@
     "modified": "2026-02-24T00:15:57",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=498491"
-  },
-  {
-    "id": 498496,
-    "title": "Microsoft Teams: Search for meetings",
-    "description": "You can now search by meeting name or participant, take direct actions like joining, RSVPing, or viewing recaps, and access a dedicated Meetings tab for a streamlined experience. These updates make it easier to find and act on meetings right from the search bar.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Teams"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Targeted Release"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "August CY2025",
-    "created": "2025-07-25T22:15:54",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=498496"
   },
   {
     "id": 498547,
@@ -15338,33 +15041,6 @@
     "modified": "2025-07-25T22:15:54",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=498912"
-  },
-  {
-    "id": 498913,
-    "title": "Microsoft Viva: Copilot Dashboard - Copilot Chat in Word, Excel, PowerPoint Metrics",
-    "description": "Copilot Analytics users can now view metrics that reflect Copilot Chat (Work and Web) activity across Word, Excel, and PowerPoint. These updates reflect the latest addition of Copilot Chat to these apps to help users transition seamlessly between workflows and will be displayed alongside existing app chat metrics for continuity. The updated metrics are available in the Copilot Dashboard, the M365 Copilot Adoption and Impact PBI reports, with additional query support for all chat prompt metrics.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)",
-      "Microsoft Viva"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop",
-      "Teams and Surface Devices",
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-07-30T23:15:18",
-    "modified": "2025-10-17T22:00:54",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=498913"
   },
   {
     "id": 498914,
@@ -17784,9 +17460,9 @@
       "Targeted Release"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "October CY2026",
+    "generalAvailabilityDate": "February CY2027",
     "created": "2025-09-10T23:15:44",
-    "modified": "2026-03-30T23:00:38",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=501201"
   },
@@ -28746,9 +28422,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-01-08T00:15:46",
-    "modified": "2026-07-28T22:43:45",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=543713"
   },
@@ -30539,8 +30215,8 @@
   {
     "id": 553224,
     "title": "Microsoft Viva: Copilot Enhanced Topic Assignment",
-    "description": "We're upgrading our topic assignment pipeline to be powered by Copilot, delivering significantly improved accuracy in categorizing survey comments into relevant topics.",
-    "status": "Launched",
+    "description": "We're upgrading our topic assignment pipeline to be powered by Copilot, delivering significantly improved accuracy in categorizing survey comments into relevant topics. Updated August 18, 2026: Rollout timing of this feature is now planned for end of August through early September. We apologize for any inconvenience.",
+    "status": "In development",
     "products": [
       "Microsoft Viva"
     ],
@@ -30556,7 +30232,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-02-18T00:00:38",
-    "modified": "2026-08-12T22:47:48",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=553224"
   },
@@ -39456,7 +39132,7 @@
     "id": 561330,
     "title": "Microsoft 365: Introducing Exchange Online Cross-tenant Message Recall",
     "description": "We're enhancing the Exchange Online Message Recall feature to add support for cross-tenant recalls. Today, you can recall messages only within your organization. Cross-tenant recall will let you recall messages sent to other organizations that add your tenant to their recall allow list.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft 365"
     ],
@@ -39479,7 +39155,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-05-05T23:00:02",
-    "modified": "2026-05-05T23:00:02",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=561330"
   },
@@ -41273,7 +40949,7 @@
     "id": 564608,
     "title": "Microsoft Copilot (Microsoft 365): Support for MCP Agents with Interactive UI Widgets in Government Clouds",
     "description": "Feature description: Model Context Protocol (MCP) based agents in Microsoft 365 Copilot Chat will now be able to surface rich, interactive UI widgets directly within chat. This enhancement enables developers to deliver more engaging and structured agent interactions. Users will experience these widgets when interacting with agents that implement them, and admins will continue to manage these agents through the Microsoft 365 Admin Center.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Copilot (Microsoft 365)"
     ],
@@ -41292,7 +40968,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-05-27T23:15:50",
-    "modified": "2026-07-28T22:43:45",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=564608"
   },
@@ -42120,7 +41796,7 @@
     "id": 565221,
     "title": "Microsoft Teams: Assistant field visibility in Organization view",
     "description": "Teams now displays assistant information in the Organization view on the profile card and in the Org Explorer, making it easier to identify a key support contact for executive coordination and scheduling. This designation is informational only and does not grant permissions, change roles, or affect organizational hierarchy.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Teams"
     ],
@@ -42139,7 +41815,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-06-09T20:46:16",
-    "modified": "2026-07-01T23:03:18",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565221"
   },
@@ -42839,9 +42515,9 @@
       "Targeted Release"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "July CY2026",
+    "generalAvailabilityDate": "August CY2026",
     "created": "2026-06-18T23:00:06",
-    "modified": "2026-06-18T23:00:06",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=566316"
   },
@@ -43411,10 +43087,10 @@
       "General Availability",
       "Preview"
     ],
-    "previewDate": "August CY2026",
+    "previewDate": "September CY2026",
     "generalAvailabilityDate": "September CY2026",
     "created": "2026-06-26T22:01:51",
-    "modified": "2026-07-16T23:08:19",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=566703"
   },
@@ -44265,7 +43941,7 @@
     "id": 567304,
     "title": "Microsoft Teams: Explicit recording and transcription consent for PSTN participants now available in GCC High and DoD",
     "description": "We are introducing explicit recording and transcription consent support for PSTN participants joining Microsoft Teams meetings in GCC High and DoD environments. This feature is already available in Public and GCC clouds and is now being extended to sovereign environments. After this rollout, when a meeting is being recorded or transcribed, PSTN participants will be prompted to provide explicit consent before they can unmute and participate. If consent is not provided, participants will remain muted for the duration of the meeting. This update aligns PSTN behavior with the existing consent experience in Teams clients and enhances compliance by ensuring all participants actively acknowledge recording and transcription. This rollout may impact PSTN users joining meetings where recording or transcription is enabled. We recommend informing users about this change so they are prepared to provide consent when prompted.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Teams"
     ],
@@ -44286,7 +43962,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-07-16T23:08:19",
-    "modified": "2026-07-17T22:12:56",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567304"
   },
@@ -44421,9 +44097,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "August CY2026",
+    "generalAvailabilityDate": "September CY2026",
     "created": "2026-07-08T23:10:57",
-    "modified": "2026-07-08T23:10:57",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567314"
   },
@@ -44558,7 +44234,7 @@
     "id": 567320,
     "title": "Microsoft Viva: Viva Glint - Copilot admin configuration assistance",
     "description": "A Copilot-powered conversational assistant embedded in the Viva Glint admin experience that answers configuration and how-to questions and provides step-by-step guidance. Responses will include deep links to configuration pages streamlining navigation and discoverability. Only available for Viva Glint users with Admin permissions.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Viva"
     ],
@@ -44573,9 +44249,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "August CY2026",
     "created": "2026-08-03T22:55:03",
-    "modified": "2026-08-03T22:55:03",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567320"
   },
@@ -44658,9 +44334,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-08-03T22:55:03",
-    "modified": "2026-08-05T22:47:32",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567461"
   },
@@ -46503,19 +46179,26 @@
       "Microsoft Teams"
     ],
     "cloudInstances": [
+      "DoD",
+      "GCC",
+      "GCC High",
       "Worldwide (Standard Multi-Tenant)"
     ],
     "platforms": [
+      "Android",
       "Desktop",
-      "Mac"
+      "Mac",
+      "Web",
+      "iOS"
     ],
     "releasePhases": [
-      "General Availability"
+      "General Availability",
+      "Targeted Release"
     ],
     "previewDate": null,
     "generalAvailabilityDate": "September CY2026",
     "created": "2026-08-17T22:52:47",
-    "modified": "2026-08-17T22:52:47",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569205"
   },
@@ -46543,6 +46226,34 @@
     "modified": "2026-08-14T21:56:10",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569206"
+  },
+  {
+    "id": 569207,
+    "title": "Microsoft Teams: Report a Security Concern in Meetings",
+    "description": "Microsoft Teams will enable meeting organizers and attendees to report suspicious, malicious, or potentially fraudulent activity directly from meetings. Users can submit reports during or after a meeting, helping organizations identify potential threats such as impersonation, phishing, scams, and other suspicious behavior. Reports are integrated with Microsoft security and administrative workflows to support investigation, remediation, and ongoing improvements to security protections.",
+    "status": "In development",
+    "products": [
+      "Microsoft Teams"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Android",
+      "Desktop",
+      "Linux",
+      "Mac",
+      "iOS"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-18T23:05:00",
+    "modified": "2026-08-18T23:05:00",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569207"
   },
   {
     "id": 569208,
@@ -46652,6 +46363,34 @@
     "modified": "2026-08-11T22:53:53",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569211"
+  },
+  {
+    "id": 569212,
+    "title": "Microsoft Copilot (Microsoft 365): Federated Copilot Connectors in Microsoft 365 Copilot",
+    "description": "Federated Copilot connectors enable users to securely connect Microsoft Copilot to their favorite third party sources, retrieving data in real-time using the Model Context Protocol (MCP). Federated Copilot connectors do not store or index customer data in Microsoft - access happens in real time using the user’s own identity, while administrators retain full governance and control through the Microsoft 365 Admin Center. With GA, federated Copilot connectors will be supported across Researcher agent and Microsoft 365 Chat, allowing users to bring data into their workflows.",
+    "status": "In development",
+    "products": [
+      "Microsoft Copilot (Microsoft 365)"
+    ],
+    "cloudInstances": [
+      "DoD",
+      "GCC",
+      "GCC High"
+    ],
+    "platforms": [
+      "Desktop",
+      "Mac",
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-18T23:05:00",
+    "modified": "2026-08-18T23:05:00",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569212"
   },
   {
     "id": 569213,
@@ -46794,6 +46533,7 @@
       "Android",
       "Desktop",
       "Mac",
+      "Web",
       "iOS"
     ],
     "releasePhases": [
@@ -46802,9 +46542,35 @@
     "previewDate": null,
     "generalAvailabilityDate": "October CY2026",
     "created": "2026-08-14T21:56:10",
-    "modified": "2026-08-17T22:52:47",
+    "modified": "2026-08-18T23:05:00",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569421"
+  },
+  {
+    "id": 569425,
+    "title": "Microsoft Copilot (Microsoft M365): Delegated prompt publishing for organization prompts",
+    "description": "This release follows the availability of organization prompts, providing admins the ability to upload custom prompts for their organization in the Copilot app home screen. Now, admins can delegate organization prompt publishing to users, AAD security groups, and distribution groups. These delegated users and groups will be able to create, edit and delete organization prompts at the tenant level through the Prompt Lab, without having to access the Microsoft 365 Admin Center. Admins can continue to monitor and provide oversight through the current experience in the Microsoft 365 Admin Center.",
+    "status": "In development",
+    "products": [
+      "Microsoft 365 admin center",
+      "Microsoft Copilot (Microsoft 365)"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Desktop",
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-18T23:05:00",
+    "modified": "2026-08-18T23:05:00",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569425"
   },
   {
     "id": 569426,
