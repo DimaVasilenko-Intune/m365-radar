@@ -20569,9 +20569,9 @@
       "Preview"
     ],
     "previewDate": "June CY2026",
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "November CY2026",
     "created": "2025-09-26T22:15:02",
-    "modified": "2026-06-09T20:46:16",
+    "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=506743"
   },
@@ -30357,9 +30357,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-02-11T00:15:04",
-    "modified": "2026-07-15T22:55:27",
+    "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=553594"
   },
@@ -36123,7 +36123,7 @@
     "id": 559482,
     "title": "Microsoft Viva: Recent feed in Viva Engage",
     "description": "Introducing a new “Recent” feed in Home to give users a more predictable view of followed and priority communications, while preserving the existing personalized “For you” experience.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Viva"
     ],
@@ -36142,7 +36142,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-04-01T23:15:50",
-    "modified": "2026-07-28T22:43:45",
+    "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=559482"
   },
@@ -40407,9 +40407,9 @@
       "Preview"
     ],
     "previewDate": "July CY2026",
-    "generalAvailabilityDate": "October CY2026",
+    "generalAvailabilityDate": "November CY2026",
     "created": "2026-05-26T22:45:59",
-    "modified": "2026-06-11T23:15:28",
+    "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=562352"
   },
@@ -40629,7 +40629,7 @@
     "id": 562665,
     "title": "Microsoft Teams: Interpreter agent support in Teams Rooms on Android",
     "description": "The Interpreter agent acts as a translator in Microsoft Teams meetings, allowing participants to listen to the meeting in their chosen language with real-time translation so speaking different languages isn’t a barrier to effective understanding and collaboration. It's now available in Teams Rooms on Android licensed for Teams Rooms Pro.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Teams"
     ],
@@ -40648,7 +40648,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-05-20T23:15:13",
-    "modified": "2026-06-25T23:15:45",
+    "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=562665"
   },
@@ -42213,7 +42213,7 @@
     "id": 565870,
     "title": "Microsoft Purview: Data Loss Prevention - Data Loss Prevention to safeguard sensitive information from external web search in Microsoft 356 Copilot and Copilot Chat",
     "description": "We are expanding Microsoft Purview DLP for Microsoft 365 Copilot to safeguard web searches containing sensitive data. This real-time control helps organizations mitigate data leakage and oversharing risks by preventing Microsoft 365 Copilot and Copilot Chat from using sensitive data for external web search.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Purview"
     ],
@@ -42231,7 +42231,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-06-26T22:01:51",
-    "modified": "2026-08-05T22:47:32",
+    "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565870"
   },
@@ -43007,9 +43007,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-06-29T23:02:39",
-    "modified": "2026-07-02T23:12:48",
+    "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=566700"
   },
@@ -43880,7 +43880,7 @@
     "id": 567301,
     "title": "Microsoft Teams: New controls for quick views in the chat list",
     "description": "The new chats and channels experience introduced quick views at the top of the chat and channels list. These are views into mentions, followed threads and more. This update allows users to choose when and how these quick views are shown. Users will have options such as always show, always hide and show only when unread. Users will also be able to collapse the quick views section.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Teams"
     ],
@@ -43899,7 +43899,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-07-08T23:10:57",
-    "modified": "2026-07-10T21:58:35",
+    "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567301"
   },
@@ -44452,7 +44452,7 @@
     "id": 567468,
     "title": "Microsoft Teams: Modernized Gallery view in Teams Rooms on Android",
     "description": "The updated Gallery view in Teams Rooms on Android prioritizes video on the meeting stage, arranges participants in consistent aspect ratios, and minimizes movement of participant tiles on stage. Users can hide the room self-preview video and choose to see audio and video participants equally on stage, instead of prioritizing video participants. Admins can choose the default behavior using local device settings and the Pro Management portal.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Teams"
     ],
@@ -44472,7 +44472,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-07-10T21:58:35",
-    "modified": "2026-07-28T22:43:45",
+    "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567468"
   },
@@ -45246,9 +45246,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "August CY2026",
+    "generalAvailabilityDate": "November CY2026",
     "created": "2026-07-29T23:07:26",
-    "modified": "2026-07-29T23:07:26",
+    "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568365"
   },
@@ -45632,6 +45632,32 @@
     "modified": "2026-08-05T22:47:32",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568787"
+  },
+  {
+    "id": 568788,
+    "title": "Microsoft Copilot (Microsoft 365): Self-serve sync connectors",
+    "description": "Self-serve sync connectors enable users to securely connect their own external data sources, such as Jira and Confluence Cloud, to Microsoft 365 Copilot. Using their own credentials and permissions, users can synchronize content they already have access to, making it discoverable in Copilot Chat and Microsoft Search. Administrators maintain oversight through tenant-level controls, including staged rollout, visibility management, and connector disablement.",
+    "status": "In development",
+    "products": [
+      "Microsoft Copilot (Microsoft 365)"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Desktop",
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability",
+      "Preview"
+    ],
+    "previewDate": "August CY2026",
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-20T22:38:45",
+    "modified": "2026-08-20T22:38:45",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568788"
   },
   {
     "id": 568789,
@@ -46594,6 +46620,31 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569426"
   },
   {
+    "id": 569428,
+    "title": "Microsoft Copilot (Microsoft 365) Writing Blocks in M365 Copilot",
+    "description": "M365 Copilot now supports Writing blocks. Edit drafts, memos, emails, and more inline while using Chat for easy editing and iteration.",
+    "status": "In development",
+    "products": [
+      "Microsoft Copilot (Microsoft 365)"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Desktop",
+      "Mobile"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-20T22:38:45",
+    "modified": "2026-08-20T22:38:45",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569428"
+  },
+  {
     "id": 569429,
     "title": "Microsoft Copilot (Microsoft 365): Code Blocks in M365 Copilot",
     "description": "M365 Copilot now supports code blocks, which lets you preview code, charts, diagrams, and more directly inline while using Chat. Previously, users could preview code side-by-side in a code canvas.",
@@ -46695,6 +46746,78 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569434"
   },
   {
+    "id": 569435,
+    "title": "Microsoft Viva: Viva Glint – In-product access to feature announcements",
+    "description": "Viva Glint service administrators will see a new announcement icon in the product header that links directly to the Viva Glint Tech Community blog. This makes it easier to discover product news, feature announcements, and best practices.",
+    "status": "In development",
+    "products": [
+      "Microsoft Viva"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-20T22:38:45",
+    "modified": "2026-08-20T22:38:45",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569435"
+  },
+  {
+    "id": 569447,
+    "title": "Microsoft Teams: Breakout room support on Teams Rooms on Android",
+    "description": "With breakout room support, Teams Rooms on Android can be added to a breakout room and moved in and out of the main room making it easy for breakout session coordination.",
+    "status": "In development",
+    "products": [
+      "Microsoft Teams"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Android"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-20T22:38:45",
+    "modified": "2026-08-20T22:38:45",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569447"
+  },
+  {
+    "id": 569606,
+    "title": "Microsoft Viva: Viva Glint – Enhanced multiple-choice questions with up to 500 options",
+    "description": "Viva Glint administrators will be able to create multiple-choice questions with up to 500 options and upload options using a CSV file. For questions containing more than 50 options, survey takers can search and filter the available responses, making longer lists faster and easier to navigate. Reporting will support the expanded option set.",
+    "status": "In development",
+    "products": [
+      "Microsoft Viva"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-20T22:38:45",
+    "modified": "2026-08-20T22:38:45",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569606"
+  },
+  {
     "id": 569607,
     "title": "Microsoft Copilot Studio: Improvements to agent evaluations experience",
     "description": "Microsoft Copilot Studio is enhancing the Evaluations experience to help makers better understand agent quality and behavior. New capabilities include richer evaluation explanations, agent reasoning traces, cited knowledge sources, evaluation run comparison, support for larger datasets, customizable test generation, and dataset generation from knowledge sources. These improvements help makers identify quality issues more quickly, understand why evaluations succeed or fail, compare results across runs, and create higher quality evaluation datasets with less manual effort. Additional validation and guidance will help makers resolve configuration issues before running evaluations.",
@@ -46717,5 +46840,60 @@
     "modified": "2026-08-19T22:58:06",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569607"
+  },
+  {
+    "id": 569609,
+    "title": "Microsoft Teams: Report a Message or an External User for Security Concern in Gov Clouds",
+    "description": "Users in Gov clouds can now report suspicious messages and external users within Teams. Reports are surfaced in the Teams admin center, giving admins greater visibility into potentially malicious activity and enabling them to investigate and take appropriate action. By incorporating end-user reports as an additional security signal, this capability helps organizations identify and respond more quickly to phishing, impersonation, spam, and other messaging threats.",
+    "status": "In development",
+    "products": [
+      "Microsoft Teams"
+    ],
+    "cloudInstances": [
+      "GCC"
+    ],
+    "platforms": [
+      "Android",
+      "Desktop",
+      "Mac",
+      "Web",
+      "iOS"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-20T22:38:45",
+    "modified": "2026-08-20T22:38:45",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569609"
+  },
+  {
+    "id": 569717,
+    "title": "Outlook: Purview Data Loss Prevention support for Calendar Events in Outlook for Mac",
+    "description": "Outlook for Mac will support Microsoft Purview Data Loss Prevention (DLP) policies for calendar events. Organizations can detect and help prevent the sharing of sensitive information in meeting subjects, descriptions, and invite content through policy tips, user remediation, and policy enforcement. This provides consistent compliance protection across email and calendar experiences on Mac devices.",
+    "status": "In development",
+    "products": [
+      "Outlook"
+    ],
+    "cloudInstances": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Mac"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-20T22:38:45",
+    "modified": "2026-08-20T22:38:45",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569717"
   }
 ]
