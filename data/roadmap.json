@@ -31497,7 +31497,7 @@
     "id": 555888,
     "title": "Microsoft Copilot (Microsoft 365): Reference an email with Work IQ when using Edit with Copilot in PowerPoint to create a presentation",
     "description": "You can now reference an email with Work IQ when using Edit with Copilot in PowerPoint to create a presentation.",
-    "status": "In development",
+    "status": "Launched",
     "products": [
       "Microsoft Copilot (Microsoft 365)",
       "PowerPoint"
@@ -31514,7 +31514,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "March CY2026",
     "created": "2026-02-11T00:15:04",
-    "modified": "2026-06-05T22:00:28",
+    "modified": "2026-08-21T22:00:23",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=555888"
   },
@@ -31645,8 +31645,8 @@
   },
   {
     "id": 555894,
-    "title": "Microsoft Copilot (Microsoft 365): Reference SharePoint libraries and OneDrive folders when creating a presentation with Agent Mode in PowerPoint",
-    "description": "You can now reference SharePoint libraries and OneDrive folders when creating a presentation with Copilot using Agent Mode in PowerPoint.",
+    "title": "Microsoft Copilot (Microsoft 365): Reference files saved in SharePoint libraries and OneDrive folders when creating a presentation with Agent Mode in PowerPoint",
+    "description": "You can now reference files saved in SharePoint libraries and OneDrive folders when creating a presentation with Copilot using Agent Mode in PowerPoint.",
     "status": "In development",
     "products": [
       "Microsoft Copilot (Microsoft 365)",
@@ -31664,14 +31664,14 @@
     "previewDate": null,
     "generalAvailabilityDate": "June CY2026",
     "created": "2026-02-11T00:15:04",
-    "modified": "2026-02-11T00:15:04",
+    "modified": "2026-08-21T22:00:23",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=555894"
   },
   {
     "id": 555895,
-    "title": "Microsoft Copilot (Microsoft 365): Reference SharePoint libraries and OneDrive folders when creating a presentation with Agent Mode in PowerPoint",
-    "description": "You can now reference SharePoint libraries and OneDrive folders when creating a presentation with Copilot using Agent Mode in PowerPoint.",
+    "title": "Microsoft Copilot (Microsoft 365): Reference files saved in SharePoint libraries and OneDrive folders when creating a presentation with Agent Mode in PowerPoint",
+    "description": "You can now reference files saved in SharePoint libraries and OneDrive folders when creating a presentation with Copilot using Agent Mode in PowerPoint.",
     "status": "In development",
     "products": [
       "Microsoft Copilot (Microsoft 365)",
@@ -31689,7 +31689,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "June CY2026",
     "created": "2026-03-02T23:45:11",
-    "modified": "2026-03-02T23:45:11",
+    "modified": "2026-08-21T22:00:23",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=555895"
   },
@@ -31720,8 +31720,8 @@
   },
   {
     "id": 555897,
-    "title": "Microsoft Copilot (Microsoft 365): Reference SharePoint libraries and OneDrive folders when creating a presentation with Agent Mode in PowerPoint",
-    "description": "You can now reference SharePoint libraries and OneDrive folders when creating a presentation with Agent Mode in PowerPoint.",
+    "title": "Microsoft Copilot (Microsoft 365): Reference files saved in SharePoint libraries and OneDrive folders when creating a presentation with Agent Mode in PowerPoint",
+    "description": "You can now reference files saved in SharePoint libraries and OneDrive folders when creating a presentation with Agent Mode in PowerPoint.",
     "status": "In development",
     "products": [
       "Microsoft Copilot (Microsoft 365)",
@@ -31739,7 +31739,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "June CY2026",
     "created": "2026-03-02T23:45:11",
-    "modified": "2026-03-02T23:45:11",
+    "modified": "2026-08-21T22:00:23",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=555897"
   },
@@ -35376,7 +35376,7 @@
     "id": 559021,
     "title": "Microsoft Copilot (Microsoft 365): Work IQ APIs – Unified REST Endpoint for Agents and Workflows",
     "description": "Introduces a new REST endpoint for Work IQ that serves as a unified entry point for invoking agents and workflows, providing a consistent, scalable alternative to legacy Copilot Chat endpoints.",
-    "status": "In development",
+    "status": "Launched",
     "products": [
       "Microsoft Copilot (Microsoft 365)"
     ],
@@ -35393,7 +35393,7 @@
     "previewDate": "May CY2026",
     "generalAvailabilityDate": "June CY2026",
     "created": "2026-05-05T23:00:02",
-    "modified": "2026-05-05T23:00:02",
+    "modified": "2026-08-21T22:00:23",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=559021"
   },
@@ -40253,9 +40253,9 @@
       "Targeted Release"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-05-14T23:15:59",
-    "modified": "2026-07-15T22:55:27",
+    "modified": "2026-08-21T22:00:23",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=562340"
   },
@@ -42018,9 +42018,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "August CY2026",
+    "generalAvailabilityDate": "September CY2026",
     "created": "2026-06-16T23:00:10",
-    "modified": "2026-07-06T23:00:50",
+    "modified": "2026-08-21T22:00:23",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565860"
   },
@@ -43773,7 +43773,7 @@
     "id": 567120,
     "title": "Microsoft Copilot (Microsoft 365): Microsoft 365 admin center – New Microsoft 365 Copilot usage report for GCC High & DoD",
     "description": "We will be introducing a new Usage report covering Microsoft 365 Copilot. This report will include total enabled and active users, Copilot usage with a breakout per Microsoft 365 app, and user-level activity insights (anonymized by default). #copilotcontrolsystem",
-    "status": "In development",
+    "status": "Launched",
     "products": [
       "Microsoft Copilot (Microsoft 365)"
     ],
@@ -43790,7 +43790,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-07-06T23:00:50",
-    "modified": "2026-07-06T23:00:50",
+    "modified": "2026-08-21T22:00:23",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=567120"
   },
@@ -46540,6 +46540,30 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569364"
   },
   {
+    "id": 569420,
+    "title": "Microsoft Teams: Coordinated meetings support on Teams Rooms on Android",
+    "description": "Teams Rooms on Android now supports coordinated meetings, enabling paired Teams Rooms on Android devices and Android-based touch boards to work together in the same hybrid meeting experience. This feature enables coordinated join and leave, and collaboration across front-of-room displays and touch boards. This creates more immersive and flexible meeting spaces for both in-room and remote participants.",
+    "status": "In development",
+    "products": [
+      "Microsoft Teams"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Android"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "January CY2027",
+    "created": "2026-08-21T22:00:23",
+    "modified": "2026-08-21T22:00:23",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569420"
+  },
+  {
     "id": 569421,
     "title": "Microsoft Teams: Malicious URL Protection for Teams Chat and Channels for Gov clouds",
     "description": "Microsoft Teams can now detect and warn users on malicious URLs sent in Teams chat and channels in Gov clouds, increasing protection against malware attacks for Gov clouds customers.",
@@ -46870,6 +46894,30 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569609"
   },
   {
+    "id": 569612,
+    "title": "Microsoft Purview: Data Lifecycle Management – Retention for Copilot Memory",
+    "description": "Configure retention for Microsoft 365 Copilot memory to help preserve historical versions of memory items for security, compliance, and investigation scenarios. Copilot memory includes saved memories and details inferred from chat history that enable more personalized and context-aware Copilot experiences. Copilot memory items are stored in a hidden folder in the user’s Exchange mailbox. This capability will enable retention and versioning support for inactive memory items so that administrators can maintain visibility into memory changes while active memory continues to be managed by the Copilot experience.",
+    "status": "In development",
+    "products": [
+      "Microsoft Purview"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-21T22:00:23",
+    "modified": "2026-08-21T22:00:23",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569612"
+  },
+  {
     "id": 569717,
     "title": "Outlook: Purview Data Loss Prevention support for Calendar Events in Outlook for Mac",
     "description": "Outlook for Mac will support Microsoft Purview Data Loss Prevention (DLP) policies for calendar events. Organizations can detect and help prevent the sharing of sensitive information in meeting subjects, descriptions, and invite content through policy tips, user remediation, and policy enforcement. This provides consistent compliance protection across email and calendar experiences on Mac devices.",
@@ -46895,5 +46943,31 @@
     "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569717"
+  },
+  {
+    "id": 569733,
+    "title": "Planner: Capacity view",
+    "description": "Capacity view shows a timeline of who's working on what, so you can see how work is distributed across your team and spot overload or open capacity at a glance.",
+    "status": "In development",
+    "products": [
+      "Planner"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Desktop",
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability",
+      "Targeted Release"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-21T22:00:23",
+    "modified": "2026-08-21T22:00:23",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569733"
   }
 ]
