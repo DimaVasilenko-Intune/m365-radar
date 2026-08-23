@@ -1079,35 +1079,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=365059"
   },
   {
-    "id": 366572,
-    "title": "Outlook: Custom Instructions for draft with Copilot",
-    "description": "Give Copilot some instructions about your emails - like the tone, length, greeting - so your Copilot generated drafts sound more like you want them to. #newoutlookforwindow",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)",
-      "Outlook"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Android",
-      "Desktop",
-      "Mac",
-      "Web",
-      "iOS"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "May CY2025",
-    "created": "2025-04-14T23:15:33",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=366572"
-  },
-  {
     "id": 366697,
     "title": "Microsoft Purview compliance portal: Information Protection - Enhanced Classification Support for Thai language in Exchange Online, Microsoft Teams, SharePoint, and OneDrive",
     "description": "In our continued efforts to enhance classification capabilities, we have added a new feature, Word-Breaker, to our existing Thai Language support in Classification. Words in Thai language sentences do not have spaces between them. And for classification purpose, we relied on the right keywords to be added while creating Sensitive Information Type for ensuring accurate match. However, with this feature, spaces will be added automatically in keywords which will ensure higher match accuracy across all cloud locations (Exchange, Teams, One Drive, SharePoint).",
@@ -2752,32 +2723,6 @@
     "modified": "2024-10-23T23:15:28",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=406910"
-  },
-  {
-    "id": 406913,
-    "title": "Outlook: Org Explorer in Outlook for Mac",
-    "description": "Org Explorer for Outlook helps you to visualize and explore your company’s internal structure, work teams, and individual roles. This feature will now also be available in Outlook for Mac.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Viva",
-      "Outlook"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Mac"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Preview"
-    ],
-    "previewDate": "April CY2025",
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2024-07-12T22:30:02",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=406913"
   },
   {
     "id": 406948,
@@ -5934,30 +5879,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=479750"
   },
   {
-    "id": 479754,
-    "title": "Microsoft Viva: Viva Glint - Self service for retroactive updates",
-    "description": "This feature will introduce an alternative solution to the existing Advanced Configurations feature that allows an Admin to retroactively update simpler attribute scenarios associated to surveys. This alternate provides a friendly user experience in a new wizard format - and as well as offering the option to perform the feature with zero file uploads.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Viva"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-02-20T00:15:26",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=479754"
-  },
-  {
     "id": 479755,
     "title": "Microsoft Viva: Viva Glint - Self service for historical imports",
     "description": "This feature will introduce an alternative solution to the existing Advanced Configurations feature that allows an Admin to perform historical imports into the Viva Glint platform. This alternate reduces the number of needed files and offers a simplified user experience to bring historical data into Viva Glint.",
@@ -6417,30 +6338,6 @@
     "modified": "2025-03-05T23:30:41",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=481157"
-  },
-  {
-    "id": 481158,
-    "title": "Microsoft Viva: Viva Amplify - Multiple column layouts in email",
-    "description": "Viva Amplify authored email will support two column layouts.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Viva"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "May CY2025",
-    "created": "2025-03-05T23:30:41",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=481158"
   },
   {
     "id": 481283,
@@ -7430,34 +7327,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=484123"
   },
   {
-    "id": 484844,
-    "title": "Microsoft Teams: Slide control for presenters",
-    "description": "Meeting or event presenters can now share control of slides with fellow presenters eliminating manual slide changes and maintaining a smooth flow during meetings or webinars.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Teams"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Targeted Release"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "August CY2025",
-    "created": "2025-03-19T21:45:14",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=484844"
-  },
-  {
     "id": 484851,
     "title": "Microsoft Viva: Viva Pulse - Authoring with M365 Copilot",
     "description": "Viva Pulse authors can now work with M365 Copilot to add a question, rewrite a question, and create a survey from scratch to quickly create and send their surveys to their teams to collect feedback. M365 Copilot can seamlessly capture the author's needs to recommend survey questions that fit their unique scenario. #copilotcontrolsystem",
@@ -8045,30 +7914,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485744"
   },
   {
-    "id": 485745,
-    "title": "Outlook: Read-only access to calendars within a PST file in new Outlook for Windows",
-    "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to browse and read calendars and events within a .pst file. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows #pstfilesupport.",
-    "status": "Launched",
-    "products": [
-      "Outlook"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "August CY2025",
-    "created": "2025-03-18T23:15:13",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485745"
-  },
-  {
     "id": 485746,
     "title": "Outlook: Read-only access to calendars within a PST file in new Outlook for Windows",
     "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to browse and read calendars and events within a .pst file. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows #pstfilesupport.",
@@ -8091,30 +7936,6 @@
     "modified": "2025-11-14T23:15:39",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485746"
-  },
-  {
-    "id": 485749,
-    "title": "Outlook: Forward as attachment emails in a PST file in new Outlook for Windows",
-    "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to forward as an attachment emails in a .pst file. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows #pstfilesupport.",
-    "status": "Launched",
-    "products": [
-      "Outlook"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-03-18T23:15:13",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485749"
   },
   {
     "id": 485750,
@@ -11265,78 +11086,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=493320"
   },
   {
-    "id": 493323,
-    "title": "Microsoft Teams: DoD support in Teams Rooms Pro Management",
-    "description": "Department of Defense (DoD) customer tenants now have access to the Teams Rooms Pro Management service and portal, enabling them to use the remote device management and analytics features of the solution while meeting high security and privacy standards.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Teams"
-    ],
-    "cloudInstances": [
-      "DoD"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-05-09T22:15:45",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=493323"
-  },
-  {
-    "id": 493324,
-    "title": "Microsoft Viva: Viva Glint - Delete survey cycles",
-    "description": "This feature enables Glint Admins to delete survey cycles within a configured program. When a cycle is deleted, all associated data—including reporting—will be removed from the platform. The feature is intended for removing obsolete or test cycles that are no longer needed.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Viva"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "November CY2025",
-    "created": "2025-06-27T22:15:28",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=493324"
-  },
-  {
-    "id": 493326,
-    "title": "Microsoft Viva: Viva Glint - Include missing survey takers",
-    "description": "This feature enables a Glint Admin to create surveys for participants who were not originally included in a live survey. With this update, the admin can modify the distribution list within the survey program settings and generate surveys for the newly added participants.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Viva"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2025-05-13T11:00:17",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=493326"
-  },
-  {
     "id": 493742,
     "title": "Microsoft Teams: Advanced Collaboration Analytics for GCC",
     "description": "Advanced Collaboration Analytics for GGC provides Teams admins with insights into external collaboration patterns - covering teams, federated domains, channels, guests, and internal users - along with recommended actions to enhance security for external collaboration.",
@@ -12512,31 +12261,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=495468"
   },
   {
-    "id": 495547,
-    "title": "Microsoft Purview compliance portal: OCR - Restrict OCR Scan to mails sent outside the organization",
-    "description": "The feature will allow you to do OCR for only those mails which are being sent outside the organization. Hence, by using this config, you will not be billed for any internal communications or any incoming mails coming from outside the org.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Purview"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Preview"
-    ],
-    "previewDate": "June CY2025",
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2025-05-30T22:00:38",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=495547"
-  },
-  {
     "id": 495683,
     "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention Always-on diagnostics for Windows endpoints (Phase 1)",
     "description": "This feature release ‘Always-on diagnostics’, captures critical diagnostic data from onboarded endpoint devices running on Windows OS for EDLP issue reporting. Comprehensive trace logs will be automatically recorded and stored locally on the devices, eliminating the need to reproduce issues when submitting investigation requests to Microsoft. It allows for the collection of detailed traces over extended periods (up to 90 days). While raising tickets to submit investigation requests to Microsoft regarding Microsoft Endpoint DLP, customers can share enhanced diagnostic information with Microsoft without needing to reproduce the exact scenario.",
@@ -12585,33 +12309,6 @@
     "modified": "2025-06-30T23:00:15",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=495828"
-  },
-  {
-    "id": 495830,
-    "title": "Microsoft Teams: Unified building and endpoint metadata for reporting",
-    "description": "Teams Administrators can now use a single, unified process to upload and maintain the building and endpoint metadata that enriches calling and meeting reports. This new process replaces Reporting Labels and ensures that the building and endpoint information you upload is used in both Tenant Admin Center and Call Quality Dashboard.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Teams"
-    ],
-    "cloudInstances": [
-      "GCC",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop",
-      "Mac",
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-06-04T23:15:39",
-    "modified": "2025-10-21T23:15:01",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=495830"
   },
   {
     "id": 495833,
