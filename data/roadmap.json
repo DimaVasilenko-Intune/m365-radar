@@ -5655,30 +5655,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=477822"
   },
   {
-    "id": 478609,
-    "title": "Microsoft Teams: Monitor Teams client updates in Teams Admin center",
-    "description": "IT Administrators can now monitor Teams client version update adoption and access detailed adoption information. This feature enables administrators to proactively understand version adoption, assess version health, and access granular details about devices and users who are on the latest client versions. Additionally, it provides visibility on recency of client versions. Administrators can now proactively view insights and address issues preventing users from automatically updating to the latest and most secure version of the Teams client.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Teams"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "April CY2025",
-    "created": "2025-01-29T00:15:46",
-    "modified": "2025-10-23T23:00:40",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=478609"
-  },
-  {
     "id": 478610,
     "title": "Microsoft Teams: Teams client health dashboards in Teams Admin Center",
     "description": "IT Administrators can view and monitor the health of Teams desktop clients on both Windows and Mac platforms. This feature offers comprehensive admin actionable insights into client health metrics, including client crashes and launch failures. Administrators are equipped with detailed information on issues, insights, and mitigation tools to promptly and effectively address any potential client health problems.",
@@ -7013,31 +6989,6 @@
     "modified": "2025-04-18T22:15:14",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=483949"
-  },
-  {
-    "id": 483952,
-    "title": "Microsoft Copilot (Microsoft 365): Select some text, and instantly get helpful options from Copilot",
-    "description": "The Copilot icon in your document margin gives you a variety of actions you can take on your selected text. One click lets you rewrite, get editorial coaching, and more.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)",
-      "Word"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Mac"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2025-03-31T21:15:04",
-    "modified": "2025-10-23T23:00:40",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=483952"
   },
   {
     "id": 483954,
@@ -10669,31 +10620,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=492623"
   },
   {
-    "id": 492624,
-    "title": "Microsoft Purview compliance portal: Intent Navigator in Data Security Posture Management",
-    "description": "A user guidance feature designed to handle queries that fall outside supported data boundaries or capabilities. Instead of rejecting unsupported requests, it intelligently suggests alternatives by interpreting user intent and reformulating the query based on available parameters.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Purview"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Preview"
-    ],
-    "previewDate": "June CY2025",
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2025-05-09T22:15:45",
-    "modified": "2025-10-24T22:00:49",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=492624"
-  },
-  {
     "id": 492625,
     "title": "Microsoft Teams: share file in chat with external users",
     "description": "Collaborating with users outside your organization has become more streamlined. You can now share files and Loop components with external users in 1:1, group, and meeting chats. When sending a file or Loop component, it will be automatically provisioned to users in the chat, or you can change its permissions.",
@@ -11637,84 +11563,6 @@
     "modified": "2026-05-05T23:00:02",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=494830"
-  },
-  {
-    "id": 494831,
-    "title": "Microsoft Copilot (Microsoft 365): Use Copilot to rephrase text as desired through custom prompt in PowerPoint",
-    "description": "Now you will be able to rewrite text using Copilot through natural language prompting in PowerPoint.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)",
-      "PowerPoint"
-    ],
-    "cloudInstances": [
-      "GCC",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2025-06-12T23:00:59",
-    "modified": "2025-10-24T22:00:49",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=494831"
-  },
-  {
-    "id": 494832,
-    "title": "Microsoft Copilot (Microsoft 365): Use Copilot to rephrase text as desired through custom prompt in PowerPoint",
-    "description": "Now you will be able to rewrite text using Copilot through natural language prompting in PowerPoint.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)",
-      "PowerPoint"
-    ],
-    "cloudInstances": [
-      "GCC",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Mac"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2025-06-12T23:00:59",
-    "modified": "2025-10-24T22:00:49",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=494832"
-  },
-  {
-    "id": 494833,
-    "title": "Microsoft Copilot (Microsoft 365): Use Copilot to rephrase text as desired through custom prompt in PowerPoint",
-    "description": "Now you will be able to rewrite text using Copilot through natural language prompting in PowerPoint.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)",
-      "PowerPoint"
-    ],
-    "cloudInstances": [
-      "GCC",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "July CY2025",
-    "created": "2025-06-11T23:00:02",
-    "modified": "2025-10-24T22:00:49",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=494833"
   },
   {
     "id": 494835,
@@ -14819,30 +14667,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499024"
   },
   {
-    "id": 499025,
-    "title": "Microsoft Copilot (Microsoft 365): On-Canvas Copilot and Private Preview in Shared Pages",
-    "description": "After making changes to a shared page via chat or on-canvas Copilot, responses appear as private previews, showing content suggestions that you can edit and preview privately before applying them.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "August CY2025",
-    "created": "2025-07-24T23:15:15",
-    "modified": "2025-10-23T23:00:40",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499025"
-  },
-  {
     "id": 499076,
     "title": "Microsoft Purview Compliance Portal: Information Protection- Scan existing files in SharePoint and OneDrive for business for sensitive information",
     "description": "This new capability will enable admins to scan existing files at rest in SharePoint or OneDrive for business for sensitive data.",
@@ -14923,31 +14747,6 @@
     "modified": "2025-11-08T00:00:04",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499148"
-  },
-  {
-    "id": 499150,
-    "title": "Microsoft Copilot (Microsoft 365): Audio Overview customization in Copilot Notebooks",
-    "description": "Guide the content of an Audio Overview created for a Copilot Notebook through natural language input.",
-    "status": "Launched",
-    "products": [
-      "Microsoft 365 app",
-      "Microsoft Copilot (Microsoft 365)"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-07-25T22:15:54",
-    "modified": "2025-10-23T23:00:40",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=499150"
   },
   {
     "id": 499153,
@@ -18834,32 +18633,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=502879"
   },
   {
-    "id": 503019,
-    "title": "Microsoft Teams: Mute a conversation from Teams for iOS & Android",
-    "description": "Engage network admins and corporate communicators can mute conversations to remove a thread from distribution in the home feed and in email digests directly from the Engage app in Teams for iOS & Android.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Teams",
-      "Microsoft Viva"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Android",
-      "iOS"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-09-09T23:15:14",
-    "modified": "2025-10-24T22:00:49",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=503019"
-  },
-  {
     "id": 503099,
     "title": "Microsoft Teams: Forwarded Messages Links",
     "description": "When someone forwards a message in Teams, you'll now be able to click a link that takes you straight to the original chat or channel where it came from. Note, the link works only if the recipient has access to the original conversation.",
@@ -19473,7 +19246,7 @@
     "id": 503564,
     "title": "Microsoft 365 admin center: Organizational Messages now supports Hybrid-joined Devices",
     "description": "Organizational Messages now supports Hybrid-joined Devices.",
-    "status": "In development",
+    "status": "Launched",
     "products": [
       "Microsoft 365 admin center"
     ],
@@ -19490,7 +19263,7 @@
     "previewDate": "December CY2025",
     "generalAvailabilityDate": "June CY2026",
     "created": "2025-10-06T23:00:40",
-    "modified": "2026-04-10T21:45:06",
+    "modified": "2026-08-24T22:41:12",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=503564"
   },
@@ -20071,58 +19844,6 @@
     "modified": "2026-05-27T23:15:50",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=506744"
-  },
-  {
-    "id": 506745,
-    "title": "Microsoft Purview Compliance Portal: Information Protection-Aggregate option in Export-ContentExplorerData cmdlet",
-    "description": "The Aggregate parameter switch returns the folder level aggregated numbers instead of returning details at the item level. You don't need to specify a value with this switch. Using this switch significantly reduces the export time. To download the items in a folder, run this cmdlet for specific folders. When you use this switch with the TagName, TagType and Workload parameters, the command returns the following information: SiteUlrs: OneDrive and SharePoint. UPNs: Exchange Online and Teams. The count of items stamped with that tag.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Purview"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC",
-      "GCC High"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "October CY2025",
-    "created": "2025-09-26T22:15:02",
-    "modified": "2025-10-24T22:00:49",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=506745"
-  },
-  {
-    "id": 506746,
-    "title": "Microsoft Purview Compliance Portal: Information Protection-Email Attachment Preview in Content Explorer",
-    "description": "This feature allows admins to view the attachments of an email inside content explorer.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Purview"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC",
-      "GCC High"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "October CY2025",
-    "created": "2025-09-26T22:15:02",
-    "modified": "2025-10-24T22:00:49",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=506746"
   },
   {
     "id": 506748,
@@ -21344,7 +21065,7 @@
     "id": 512431,
     "title": "Planner: Custom Templates",
     "description": "Custom templates let you create reusable, pre-designed layouts tailored to your organization’s needs, ensuring consistency and saving time. They provide flexibility to standardize content while allowing easy customization for specific scenarios.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Planner"
     ],
@@ -21362,7 +21083,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "July CY2026",
     "created": "2025-11-18T17:15:10",
-    "modified": "2026-07-02T23:12:48",
+    "modified": "2026-08-24T22:41:12",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=512431"
   },
@@ -34024,9 +33745,9 @@
       "Preview"
     ],
     "previewDate": "June CY2026",
-    "generalAvailabilityDate": "August CY2026",
+    "generalAvailabilityDate": "September CY2026",
     "created": "2026-03-12T23:00:54",
-    "modified": "2026-07-21T22:37:32",
+    "modified": "2026-08-24T22:41:12",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=558547"
   },
@@ -34333,7 +34054,7 @@
     "id": 558852,
     "title": "Microsoft Teams: Digital signage support for Teams panels",
     "description": "Digital signage can now be displayed on idle Teams panel devices, similar to digital signage support for Microsoft Teams Rooms front of room displays. Signage source and settings can be configured in the Pro Management portal. Available with Teams Rooms Pro or Shared space-licensed spaces.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Teams"
     ],
@@ -34350,7 +34071,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-03-20T22:00:36",
-    "modified": "2026-06-23T23:15:39",
+    "modified": "2026-08-24T22:41:12",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=558852"
   },
@@ -34536,7 +34257,7 @@
     "id": 558928,
     "title": "Planner: Microsoft Planner tab support for shared and private channels in Microsoft Teams",
     "description": "Now you can add Microsoft Planner as a tab in shared and private channels in Microsoft Teams, which allows to create and manage tasks directly within the channel.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Teams",
       "Planner"
@@ -34555,7 +34276,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-03-23T23:15:39",
-    "modified": "2026-07-08T23:11:07",
+    "modified": "2026-08-24T22:41:12",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=558928"
   },
@@ -38012,7 +37733,7 @@
     "id": 561031,
     "title": "Microsoft Teams: Enhanced bookable desk experience with Teams panel-based desk dock devices",
     "description": "Users have better experiences in flexible work environments with Microsoft Teams panel-based desk dock devices coming later this year. The Teams panel app now enables devices, such as the Yealink Linkhub, to enhance bookable desk experiences by indicating at-a-glance availability and letting visitors book directly on the device. Each device requires a Teams Shared Space license.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Teams"
     ],
@@ -38028,7 +37749,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-05-06T23:15:10",
-    "modified": "2026-06-23T23:15:39",
+    "modified": "2026-08-24T22:41:12",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=561031"
   },
@@ -39389,7 +39110,7 @@
     "id": 561922,
     "title": "Universal Print: Universal Print Portal",
     "description": "You can release your secure print jobs by scanning a QR code at any printer and access your print workflows from a browser on any device, all signed in with your Microsoft 365 account.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Universal Print"
     ],
@@ -39409,7 +39130,7 @@
     "previewDate": "July CY2026",
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-05-13T23:00:44",
-    "modified": "2026-06-29T23:02:39",
+    "modified": "2026-08-24T22:41:12",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=561922"
   },
@@ -41711,7 +41432,7 @@
     "id": 565905,
     "title": "Microsoft Copilot (Microsoft 365): People Skills- removal and deletion admin control",
     "description": "A new admin control in the People Skills settings lets administrators permanently remove their organization's People Skills data from the tenant. With this new control, organizations can delete their entire skills library along with all users confirmed, inferred, and imported skills data—giving them full control to offboard from People Skills in support of data governance and compliance needs. Once deletion is initiated, skills will no longer appear on user profile cards or be used across Microsoft 365 skills-based experiences such as Copilot and Viva. The control is admin-only with no automatic changes.",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Microsoft Copilot (Microsoft 365)"
     ],
@@ -41727,7 +41448,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "July CY2026",
     "created": "2026-06-15T23:00:45",
-    "modified": "2026-07-23T23:27:16",
+    "modified": "2026-08-24T22:41:12",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565905"
   },
@@ -46166,6 +45887,30 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569429"
   },
   {
+    "id": 569430,
+    "title": "Outlook: Manage Multiple Inbox Rules at Once",
+    "description": "You will soon be able to manage multiple inbox rules at the same time. Select every rule or choose only the ones you want to update. You can then delete, enable, or disable the selected rules in one action. This makes it faster and easier to keep your rules organized. #newoutlookforwindows",
+    "status": "In development",
+    "products": [
+      "Outlook"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "November CY2026",
+    "created": "2026-08-24T22:41:12",
+    "modified": "2026-08-24T22:41:12",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569430"
+  },
+  {
     "id": 569431,
     "title": "Outlook: Change the organizer of a meeting",
     "description": "Transfer ownership of a meeting or recurring meeting series to another person in your organization. The new organizer must accept the transfer before it is completed. This helps maintain continuity for long-running meetings while preserving the existing event for attendees. Available in Outlook for Windows and web and Teams calendar.",
@@ -46390,6 +46135,34 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569612"
   },
   {
+    "id": 569716,
+    "title": "Outlook: Purview Data Loss Prevention support for Calendar Events in Outlook mobile apps",
+    "description": "Outlook for iOS and Android will support Microsoft Purview Data Loss Prevention (DLP) policies for calendar events. Organizations can detect and help prevent the sharing of sensitive information in meeting subjects, descriptions, and invite content through policy tips, user remediation, and policy enforcement. This provides consistent compliance protection across email and calendar experiences on mobile devices.",
+    "status": "In development",
+    "products": [
+      "Outlook"
+    ],
+    "cloudInstances": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-24T22:41:12",
+    "modified": "2026-08-24T22:41:12",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569716"
+  },
+  {
     "id": 569717,
     "title": "Outlook: Purview Data Loss Prevention support for Calendar Events in Outlook for Mac",
     "description": "Outlook for Mac will support Microsoft Purview Data Loss Prevention (DLP) policies for calendar events. Organizations can detect and help prevent the sharing of sensitive information in meeting subjects, descriptions, and invite content through policy tips, user remediation, and policy enforcement. This provides consistent compliance protection across email and calendar experiences on Mac devices.",
@@ -46415,6 +46188,61 @@
     "modified": "2026-08-20T22:38:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569717"
+  },
+  {
+    "id": 569718,
+    "title": "Outlook: Purview DLP Wait-on-Send Support for Outlook mobile apps",
+    "description": "Outlook for iOS and Android will support Microsoft Purview Data Loss Prevention (DLP) wait-on-send policies. Organizations can require a DLP evaluation before an email is sent and configure how long users must wait for policy evaluation to complete. This helps ensure sensitive information is inspected against organizational policies before messages leave the organization while providing administrators with flexible control over the user experience.",
+    "status": "In development",
+    "products": [
+      "Outlook"
+    ],
+    "cloudInstances": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-24T22:41:12",
+    "modified": "2026-08-24T22:41:12",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569718"
+  },
+  {
+    "id": 569719,
+    "title": "Outlook: Purview DLP Wait-on-Send Support for Mac",
+    "description": "Outlook for Mac will support Microsoft Purview Data Loss Prevention (DLP) wait-on-send policies. Organizations can require a DLP evaluation before an email is sent and configure how long users must wait for policy evaluation to complete. This helps ensure sensitive information is inspected against organizational policies before messages leave the organization while providing administrators with flexible control over the user experience.",
+    "status": "In development",
+    "products": [
+      "Outlook"
+    ],
+    "cloudInstances": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Mac"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-24T22:41:12",
+    "modified": "2026-08-24T22:41:12",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569719"
   },
   {
     "id": 569733,
