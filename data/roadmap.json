@@ -3344,7 +3344,7 @@
     "id": 415168,
     "title": "Outlook: Automatically display auto-mapped calendars",
     "description": "Users will be able to automatically see their auto-mapped calendars when toggling from classic Outlook to the new. #newoutlookforwindows",
-    "status": "Rolling out",
+    "status": "Launched",
     "products": [
       "Outlook"
     ],
@@ -3360,7 +3360,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "May CY2026",
     "created": "2024-09-04T23:30:32",
-    "modified": "2026-06-01T23:15:29",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=415168"
   },
@@ -8835,7 +8835,7 @@
   {
     "id": 488097,
     "title": "Microsoft Defender for Office 365: Full Submissions experience in GCC",
-    "description": "We are bringing GCC admin and user submission experience to parity with WW capabilities.",
+    "description": "This is item is no longer accurate and we are removing it from the roadmap, we apologize for any inconvenience.",
     "status": "In development",
     "products": [
       "Microsoft Defender for Office 365"
@@ -8852,7 +8852,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "July CY2026",
     "created": "2025-04-14T23:15:33",
-    "modified": "2025-12-09T00:00:24",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=488097"
   },
@@ -10588,9 +10588,9 @@
       "General Availability"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "August CY2026",
+    "generalAvailabilityDate": "September CY2026",
     "created": "2025-05-08T23:00:31",
-    "modified": "2026-06-09T23:15:32",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=492622"
   },
@@ -14621,7 +14621,7 @@
   {
     "id": 498923,
     "title": "Viva Glint - Action Taking Report (Public Preview)",
-    "description": "Introduction of a new report that provides transparency into platform activity by dashboard users. Metrics such as report views, Team Conversations completed, Focus Areas created, and more will be visible and filterable with this report.",
+    "description": "Introduction of a new report that provides transparency into platform activity by dashboard users. Metrics such as report views, Team Conversations completed, and Focus Areas created will be visible and filterable with this report.",
     "status": "In development",
     "products": [
       "Microsoft Viva"
@@ -14638,7 +14638,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "October CY2026",
     "created": "2025-07-24T23:15:15",
-    "modified": "2026-07-28T22:43:45",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=498923"
   },
@@ -23790,9 +23790,9 @@
       "Preview"
     ],
     "previewDate": "November CY2025",
-    "generalAvailabilityDate": "August CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2025-11-06T00:00:20",
-    "modified": "2026-01-09T00:00:20",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=523209"
   },
@@ -26189,9 +26189,9 @@
       "Preview"
     ],
     "previewDate": "December CY2025",
-    "generalAvailabilityDate": "August CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2025-12-04T00:00:38",
-    "modified": "2026-01-09T00:00:20",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=536576"
   },
@@ -28883,7 +28883,7 @@
   {
     "id": 551199,
     "title": "Outlook: Print calendar events in new Outlook and Teams",
-    "description": "Users will now have basic options for printing calendar events in the #newoutlookforwindows and Teams calendar, including choosing whether to show or hide the attendee list on the printout.",
+    "description": "Users will now have basic options for printing calendar events in #newoutlookforwindows and Teams calendar, including choosing whether to show all attendees or display a shortened list of up to 10 attendees via a checkbox.",
     "status": "Rolling out",
     "products": [
       "Outlook"
@@ -28900,7 +28900,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "March CY2026",
     "created": "2026-01-30T00:15:33",
-    "modified": "2026-04-07T23:15:03",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=551199"
   },
@@ -32350,7 +32350,7 @@
     "id": 557681,
     "title": "Microsoft Copilot (Microsoft 365): Intelligent Summaries in Copilot Dashboard",
     "description": "Use intelligent summaries in Copilot Dashboard to quickly surface what’s working and where targeted attention can accelerate Copilot adoption. Intelligent summaries highlight key adoption trends to focus on areas of success. Suggested prompts enable deeper exploration of underlying trends and drivers.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "Microsoft Copilot (Microsoft 365)",
       "Microsoft Viva"
@@ -32367,7 +32367,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-03-16T23:00:10",
-    "modified": "2026-07-07T23:01:01",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=557681"
   },
@@ -32522,9 +32522,9 @@
       "Targeted Release"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-02-27T23:15:13",
-    "modified": "2026-07-17T22:12:56",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=557970"
   },
@@ -33249,9 +33249,9 @@
       "Targeted Release"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "November CY2026",
     "created": "2026-04-01T23:15:50",
-    "modified": "2026-07-28T22:43:45",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=558341"
   },
@@ -39217,7 +39217,7 @@
     "id": 562018,
     "title": "SharePoint: AI overview for SharePoint News posts in the SharePoint app for Teams",
     "description": "Users will be able access an AI generated audio summary of SharePoint News posts in the SharePoint app for Teams (Viva Connections).",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "SharePoint"
     ],
@@ -39235,7 +39235,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "June CY2026",
     "created": "2026-05-11T23:15:11",
-    "modified": "2026-05-11T23:15:11",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=562018"
   },
@@ -40868,9 +40868,9 @@
       "Targeted Release"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-06-09T20:46:16",
-    "modified": "2026-07-16T23:08:19",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565132"
   },
@@ -41270,7 +41270,7 @@
     "id": 565863,
     "title": "OneNote: Copilot Notebook in OneNote on Mac",
     "description": "Copilot Notebook, an AI-powered workspace for a project or topic built on reference materials, is coming to OneNote on Mac. Bring together your work context behind a project in one place.",
-    "status": "In development",
+    "status": "Rolling out",
     "products": [
       "OneNote"
     ],
@@ -41286,7 +41286,7 @@
     "previewDate": null,
     "generalAvailabilityDate": "August CY2026",
     "created": "2026-06-12T22:00:47",
-    "modified": "2026-07-07T23:01:01",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=565863"
   },
@@ -44804,6 +44804,30 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568785"
   },
   {
+    "id": 568786,
+    "title": "Microsoft Edge: Inline Switching for Workspaces",
+    "description": "Workspaces Inline Switching manages multiple Workspaces in a single window. Selecting a Workspace swaps in its tabs, theme, and context, with an easy return to the default space.",
+    "status": "In development",
+    "products": [
+      "Microsoft Edge"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-26T22:50:58",
+    "modified": "2026-08-26T22:50:58",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=568786"
+  },
+  {
     "id": 568787,
     "title": "Microsoft Edge: Changes to local IP address detection for proxy auto-config (PAC) scripts",
     "description": "Microsoft Edge is changing how it selects the local network address reported to proxy auto-config (PAC) scripts and is adding administrator control over it. The default IPv4 and IPv6 probe destinations now match Chromium’s defaults. Administrators can override these defaults using the PacMyIpAddressIPv4ProbeAddress and PacMyIpAddressIPv6ProbeAddress policies when required by their network routing.",
@@ -45438,9 +45462,9 @@
       "Targeted Release"
     ],
     "previewDate": null,
-    "generalAvailabilityDate": "September CY2026",
+    "generalAvailabilityDate": "October CY2026",
     "created": "2026-08-13T22:42:07",
-    "modified": "2026-08-14T21:56:10",
+    "modified": "2026-08-26T22:50:58",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569206"
   },
@@ -45788,6 +45812,30 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569421"
   },
   {
+    "id": 569423,
+    "title": "Microsoft Teams: Hide Organizer Name in Calendar View on Teams Panels and MTR-A.",
+    "description": "Admins can now choose whether the organizer name will show up in the calendar view on Teams panels and MTR-Android. In Pro Management Portal, admins can toggle the \"Show Organizer Name\" setting ON or OFF. On the panel device, admins can toggle the \"Show organizer names\" setting ON or OFF. On the MTRA console device and All In One Display device, admins can toggle the \"Show organizer names on calendar\" setting ON or OFF. Based on the selection, the organizer name will or will not be shown on the calendar view on panel and MTRA devices. Available with Teams Rooms Pro and Shared Space licenses.",
+    "status": "In development",
+    "products": [
+      "Microsoft Teams"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Android"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-26T22:50:58",
+    "modified": "2026-08-26T22:50:58",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569423"
+  },
+  {
     "id": 569425,
     "title": "Microsoft Copilot (Microsoft M365): Delegated prompt publishing for organization prompts",
     "description": "This release follows the availability of organization prompts, providing admins the ability to upload custom prompts for their organization in the Copilot app home screen. Now, admins can delegate organization prompt publishing to users, AAD security groups, and distribution groups. These delegated users and groups will be able to create, edit and delete organization prompts at the tenant level through the Prompt Lab, without having to access the Microsoft 365 Admin Center. Admins can continue to monitor and provide oversight through the current experience in the Microsoft 365 Admin Center.",
@@ -46112,6 +46160,30 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569609"
   },
   {
+    "id": 569610,
+    "title": "Planner: Track task progress with the Completion (%) field",
+    "description": "The new Completion (%) column in Microsoft Planner provides a more precise view of task progress. Users can view and update completion as a percentage, helping teams communicate incremental progress and quickly understand how far work has advanced.",
+    "status": "In development",
+    "products": [
+      "Planner"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-26T22:50:58",
+    "modified": "2026-08-26T22:50:58",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569610"
+  },
+  {
     "id": 569612,
     "title": "Microsoft Purview: Data Lifecycle Management – Retention for Copilot Memory",
     "description": "Configure retention for Microsoft 365 Copilot memory to help preserve historical versions of memory items for security, compliance, and investigation scenarios. Copilot memory includes saved memories and details inferred from chat history that enable more personalized and context-aware Copilot experiences. Copilot memory items are stored in a hidden folder in the user’s Exchange mailbox. This capability will enable retention and versioning support for inactive memory items so that administrators can maintain visibility into memory changes while active memory continues to be managed by the Copilot experience.",
@@ -46322,5 +46394,57 @@
     "modified": "2026-08-25T23:13:41",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569929"
+  },
+  {
+    "id": 569930,
+    "title": "Microsoft Copilot Studio: Conversational configuration of connectors in Copilot Studio",
+    "description": "Configure the connectors your agent needs, with a simple in-chat sign-in instead of a full settings experience.",
+    "status": "In development",
+    "products": [
+      "Microsoft Copilot Studio"
+    ],
+    "cloudInstances": [
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "platforms": [
+      "Desktop",
+      "Mac",
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "September CY2026",
+    "created": "2026-08-26T22:50:58",
+    "modified": "2026-08-26T22:50:58",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569930"
+  },
+  {
+    "id": 569934,
+    "title": "Microsoft Teams: Events in Meet app in Teams in GCC",
+    "description": "Users can now use the Teams Meet app to discover events across their organization, track what important events are upcoming, and plan and organize their own professional events. With this release, Meet app will be renamed to Events app.",
+    "status": "In development",
+    "products": [
+      "Microsoft Teams"
+    ],
+    "cloudInstances": [
+      "GCC"
+    ],
+    "platforms": [
+      "Desktop",
+      "Mac",
+      "Web"
+    ],
+    "releasePhases": [
+      "General Availability"
+    ],
+    "previewDate": null,
+    "generalAvailabilityDate": "October CY2026",
+    "created": "2026-08-26T22:50:58",
+    "modified": "2026-08-26T22:50:58",
+    "moreInfoLink": null,
+    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=569934"
   }
 ]
