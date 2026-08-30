@@ -1,11 +1,11 @@
 {
-  "harvestedAt": "2026-08-29T11:41:30.599Z",
+  "harvestedAt": "2026-08-30T10:30:56.659Z",
   "source": "https://www.microsoft.com/releasecommunications/api/v1/m365",
-  "featureCount": 1779,
+  "featureCount": 1775,
   "countsByStatus": {
     "Cancelled": 4,
     "In development": 697,
-    "Launched": 837,
+    "Launched": 833,
     "Rolling out": 241
   },
   "products": [

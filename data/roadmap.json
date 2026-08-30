@@ -340,32 +340,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=117394"
   },
   {
-    "id": 117531,
-    "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer (U.S. Government clouds)",
-    "description": "We apologize for the inconvenience, but this item was updated to Rolling out incorrectly. Thank you for your patience. The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security & Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Purview"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC",
-      "GCC High"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2023-02-24T23:13:54",
-    "modified": "2025-10-29T23:00:59",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=117531"
-  },
-  {
     "id": 117569,
     "title": "Microsoft Purview compliance portal: eDiscovery (Premium) - CMK (Customer Managed Keys) encryption support for data at-rest in Review sets",
     "description": "This release of eDiscovery features the implementation of customer-managed key (CMK) options, allowing users to manage their own encryption keys for the data stored in eDiscovery review sets in addition to the default, strong Microsoft-managed encryption already in place.",
@@ -7718,31 +7692,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485733"
   },
   {
-    "id": 485737,
-    "title": "Outlook: Export mailbox to PST file in new Outlook for Windows",
-    "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to export an entire mailbox (emails, calendars, and contacts) or a specific mailbox folder to a .pst file. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows #pstfilesupport.",
-    "status": "Launched",
-    "products": [
-      "Outlook"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Desktop"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Targeted Release"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "June CY2025",
-    "created": "2025-03-18T23:15:13",
-    "modified": "2025-10-29T23:00:59",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485737"
-  },
-  {
     "id": 485739,
     "title": "Outlook: Import emails from PST file to mailbox in new Outlook for Windows",
     "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to import emails from .pst file to mailbox. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows #pstfilesupport.",
@@ -7789,30 +7738,6 @@
     "modified": "2026-07-10T21:58:35",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485740"
-  },
-  {
-    "id": 485744,
-    "title": "Outlook: Auto-Export mailbox to PST file in new Outlook for Windows",
-    "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to schedule an export of an entire mailbox (emails, calendars, and contacts) or a specific mailbox folder to a .pst file. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows #pstfilesupport.",
-    "status": "Launched",
-    "products": [
-      "Outlook"
-    ],
-    "cloudInstances": [
-      "GCC"
-    ],
-    "platforms": [
-      "Desktop"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-03-18T23:15:13",
-    "modified": "2025-10-29T23:00:59",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=485744"
   },
   {
     "id": 485746,
@@ -10844,31 +10769,6 @@
     "modified": "2025-07-29T23:15:56",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=493753"
-  },
-  {
-    "id": 493754,
-    "title": "Microsoft Purview compliance portal: Insider Risk Management - Experience enhancements to IRM alert investigation workflow",
-    "description": "Experience enhancements to IRM alert investigation workflow including updates to the alert's \"All risk factors\" page and activity explorer. These enhancements will give customers the ability to maximize the visual space for their investigation. We are adding to each component a minimize/ maximize button and hiding the horizontal banner on the Alerts pages by default. We are also enhancing the All Risk Factors page for better UX.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Purview"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Preview"
-    ],
-    "previewDate": "September CY2025",
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-05-20T23:15:01",
-    "modified": "2025-10-29T23:00:59",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=493754"
   },
   {
     "id": 493755,
