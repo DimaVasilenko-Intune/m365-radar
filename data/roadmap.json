@@ -1815,31 +1815,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=392839"
   },
   {
-    "id": 393333,
-    "title": "OneDrive: Sync admin reports - GCC",
-    "description": "We are adding support for the OneDrive Sync admin reports for the GCC environment.",
-    "status": "Launched",
-    "products": [
-      "OneDrive"
-    ],
-    "cloudInstances": [
-      "GCC"
-    ],
-    "platforms": [
-      "Desktop",
-      "Mac"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "August CY2025",
-    "created": "2024-04-19T22:15:35",
-    "modified": "2025-10-30T23:15:09",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=393333"
-  },
-  {
     "id": 393931,
     "title": "Microsoft Teams: Microsoft 365 admin centers – Manage Teams apps that work on Outlook and Microsoft 365 App",
     "description": "Administrators using the Microsoft 365 admin center and Teams admin center who manage Teams apps that work on Outlook and the Microsoft 365 App will be able to apply their changes across all three clients (Teams, Outlook and Microsoft 365 App). Before this update, changes made through the Integrated Apps section in the Microsoft 365 admin center would only affect these apps on Outlook and the Microsoft 365 App; similarly, changes made in the Teams admin center would exclusively affect Teams. With this change, management of these apps will be unified across Teams, Outlook and Microsoft 365 App.",
@@ -3368,36 +3343,6 @@
     "modified": "2025-12-12T00:15:16",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=415419"
-  },
-  {
-    "id": 416062,
-    "title": "Microsoft Copilot (Microsoft 365): Scope delegated mailbox access for emails in Business Chat",
-    "description": "Scope Copilot queries in emails for delegated mailboxes.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Android",
-      "Desktop",
-      "Developer",
-      "Linux",
-      "Mac",
-      "Web",
-      "iOS"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2024-10-03T23:30:37",
-    "modified": "2025-10-30T23:15:09",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=416062"
   },
   {
     "id": 416091,
@@ -8683,30 +8628,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=488095"
   },
   {
-    "id": 488096,
-    "title": "Microsoft Defender for Office 365: Ability to Disagree with Microsoft submissions analysis",
-    "description": "We are enabling the ability for SOC and admins to disagree with submission responses within the Submission experience and provide feedback to Microsoft on false negatives and false positives.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Defender for Office 365"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "August CY2025",
-    "created": "2025-04-10T23:15:50",
-    "modified": "2025-10-30T23:15:09",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=488096"
-  },
-  {
     "id": 488097,
     "title": "Microsoft Defender for Office 365: Full Submissions experience in GCC",
     "description": "This is item is no longer accurate and we are removing it from the roadmap, we apologize for any inconvenience.",
@@ -8960,37 +8881,6 @@
     "modified": "2025-11-20T00:00:17",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=488502"
-  },
-  {
-    "id": 488797,
-    "title": "Microsoft Copilot (Microsoft 365): Shared mailbox access for emails in Copilot Chat",
-    "description": "Users with shared mailbox access will be able to ground Copilot Chat conversations in shared mailboxes.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Android",
-      "Desktop",
-      "Developer",
-      "Linux",
-      "Mac",
-      "Teams and Surface Devices",
-      "Web",
-      "iOS"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-04-08T23:00:23",
-    "modified": "2025-10-30T23:15:09",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=488797"
   },
   {
     "id": 488800,
@@ -10566,31 +10456,6 @@
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=493287"
   },
   {
-    "id": 493288,
-    "title": "Microsoft Copilot (Microsoft 365): Researcher available in Copilot Notebooks",
-    "description": "Use Researcher without needing to leave your Copilot Notebook to conduct complex, multi-step research across your enterprise data sources using OpenAI’s deep researcher model with chain-of-thought based iterative reasoning.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Copilot (Microsoft 365)",
-      "OneNote"
-    ],
-    "cloudInstances": [
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Web"
-    ],
-    "releasePhases": [
-      "General Availability"
-    ],
-    "previewDate": null,
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-05-21T23:15:06",
-    "modified": "2025-10-30T23:15:09",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=493288"
-  },
-  {
     "id": 493291,
     "title": "Microsoft Purview compliance portal: Data Loss Prevention - Detection of True file type in EXO DLP",
     "description": "Traditionally, Exchange has relied solely on the file extension (e.g., .docx, .pdf) to identify the type of an attachment. However, this approach can be bypassed if a file is renamed with a misleading extension. To address this, we’re enhancing our detection logic to go beyond just the visible file extension. With this update, even if a file’s extension is altered, Exchange will evaluate the actual content of the file to determine its true type. This ensures that policies based on file type—such as “File extension is…”—remain effective and secure, even in cases of renamed or disguised attachments. This improvement provides customers with a more robust and reliable way to enforce compliance and security rules around file sharing.",
@@ -11321,37 +11186,6 @@
     "modified": "2026-07-28T22:43:45",
     "moreInfoLink": null,
     "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=494999"
-  },
-  {
-    "id": 495000,
-    "title": "Microsoft Purview compliance portal: Purview Information Protection - Support for Cross Cloud Protected Files",
-    "description": "This feature will enable customers working across cloud boundaries - worldwide cloud to GCC High or Microsoft 365 operated by 21-Vianet, to share files protected with Purview Information Protection sensitivity labels. Recipients in the other cloud will be able to view, edit, print, and more based on rights assigned by the document owner.",
-    "status": "Launched",
-    "products": [
-      "Microsoft Purview"
-    ],
-    "cloudInstances": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "platforms": [
-      "Android",
-      "Desktop",
-      "Mac",
-      "iOS"
-    ],
-    "releasePhases": [
-      "General Availability",
-      "Preview"
-    ],
-    "previewDate": "July CY2025",
-    "generalAvailabilityDate": "September CY2025",
-    "created": "2025-06-10T23:00:26",
-    "modified": "2025-10-30T23:15:09",
-    "moreInfoLink": null,
-    "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=495000"
   },
   {
     "id": 495002,
